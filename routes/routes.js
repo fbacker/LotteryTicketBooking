@@ -1,0 +1,134 @@
+var fs = require("fs");
+var moment = require("moment");
+var limitCategory = 3;
+var limitTotal = 10;
+var list = [];
+
+function checkFile(){
+  fs.stat('list.json',function(err, stats){
+    if(err){
+      createFile();
+      return;
+    }
+    console.log("file exists");
+    readFile();
+  });
+}
+
+function createFile(){
+  fs.writeFile('list.json', '[]', (err) => {
+    if (err) throw err;
+    console.log('Created file!');
+    readFile();
+  });
+}
+
+function readFile(){
+  fs.readFile('list.json', (err, data) => {
+    if (err) throw err;
+    list = JSON.parse(data);
+    console.log("read file",list);
+  });
+}
+
+function saveFile(){
+  fs.writeFile('list.json', JSON.stringify(list, null, "\t"), (err) => {
+    if (err) throw err;
+    console.log('It\'s saved!');
+  });
+}
+checkFile();
+
+
+function isTaken(item){
+  for(var i = 0; i < list.length; i++){
+    var ticket = list[i];
+    if(ticket.category===item.category&&ticket.id===item.id) return true;
+  }
+  return false;
+}
+
+function toTitleCase(str)
+{
+    return str.replace(/\w\S*/g, function(txt){
+      return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+    });
+}
+
+function userOfTickets(localList,email){
+  var tickets = [];
+  for(var i = 0; i < localList.length; i++){
+    if(localList[i].email===email) tickets.push(localList[i]);
+  }
+  return tickets;
+}
+
+function ticketsInCategory(localList,category){
+  var tickets = [];
+  for(var i = 0; i < localList.length; i++){
+    if(localList[i].category===category) tickets.push(localList[i]);
+  }
+  return tickets;
+}
+
+var appRouter = function(app) {
+
+  app.get("/api/list", function(req, res) {
+      return res.send(list);
+  });
+
+  app.post("/api/add", function(req, res) {
+    // req.body
+    var selected = req.body.selected;
+    var email = req.body.email;
+    var name = req.body.name;
+    var taken = [];
+    console.log(email,selected);
+
+    // how many have we taken???
+    var userTickets = userOfTickets(list,email);
+    if(userTickets.length>=limitTotal){ // Total
+      return res.status(402).send('blubb');
+    }
+    for(var i = 0; i < selected.length; i++){ // in same serie
+      var userCategoryTickets = ticketsInCategory(userTickets,selected[i].category);
+      if(userCategoryTickets.length>=limitCategory){
+        return res.status(403).send(selected[i].category);
+      }
+    }
+    for(var i = 0; i < selected.length; i++){// in same serie
+      for(var j = 0; j < userTickets.length; j++){
+        var ticket = userTickets[j];
+        if(ticket.id===selected[i].id && ticket.category!==selected[i].category){
+          return res.status(404).send(selected[i].id);
+        }
+      }
+    }
+    // make sure none of selected is already taken
+    for(var i = 0; i < selected.length; i++){
+      if(isTaken(selected[i])) {
+        taken.push(selected[i]);
+      }
+    }
+    if(taken.length>0){
+      return res.status(401).send(taken);
+    }
+
+    // we are good to save
+    name = toTitleCase(name);
+    //var name = toTitleCase(email.split("@")[0].split(".").join(' '));
+    for(var i = 0; i < selected.length; i++){
+      selected[i].date = moment().format('YYYY-MM-DD HH:MM:ss');
+      selected[i].email = email;
+      selected[i].name = name;
+      selected[i].payed = false;
+      list.push(selected[i]);
+    }
+    saveFile();
+
+    return res.send({status:true});
+  });
+
+}
+
+module.exports = appRouter;
