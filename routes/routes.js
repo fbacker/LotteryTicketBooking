@@ -1,6 +1,6 @@
 var fs = require("fs");
 var moment = require("moment");
-var limitCategory = 3;
+var limitCategory = 4;
 var limitTotal = 10;
 var list = [];
 
@@ -82,17 +82,42 @@ var appRouter = function(app) {
     var selected = req.body.selected;
     var email = req.body.email;
     var name = req.body.name;
+    var isAdmin = req.body.bb;
     var taken = [];
     console.log(email,selected);
+    if(isAdmin){
+      for(var i = 0; i < selected.length; i++){
+        if(selected[i].type === 'delete' && selected[i].checked){
+          // remove
+          for(var j = 0; j < list.length; j++){
+            if(selected[i].category===list[j].category && selected[i].id===list[j].id){
+              list.splice(j,1);
+              break;
+            }
+          }
+        }
+        else if(selected[i].type === 'payed'){
+          // change setting
+          for(var j = 0; j < list.length; j++){
+            if(selected[i].category===list[j].category && selected[i].id===list[j].id){
+              list[j].payed = selected[i].checked;
+              break;
+            }
+          }
+        }
+      }
 
+      saveFile();
+      return res.send({status:true});
+    }
     // how many have we taken???
-    var userTickets = userOfTickets(list,email);
-    if(userTickets.length>=limitTotal){ // Total
+    var userTickets = userOfTickets(list,email).concat(selected);
+    if(userTickets.length>limitTotal){ // Total limit
       return res.status(402).send('blubb');
     }
-    for(var i = 0; i < selected.length; i++){ // in same serie
+    for(var i = 0; i < selected.length; i++){ // in same serie limit
       var userCategoryTickets = ticketsInCategory(userTickets,selected[i].category);
-      if(userCategoryTickets.length>=limitCategory){
+      if(userCategoryTickets.length>limitCategory){
         return res.status(403).send(selected[i].category);
       }
     }
