@@ -156,12 +156,15 @@ $(function() {
           if(input.length>0){
             if(!input[0].disabled || isAdmin){
               var name = item.id +": "+item.name;
+              if(item.payed)
+                name += " <i class='fa fa-gratipay' />";
               if(isAdmin)
                 name += "<br />"+item.email;
               $($($currentElement).find('span')[0]).html(name);
               $($($currentElement).find('span')[0]).css('font-weight', '400');
               $(input[0]).attr('disabled',true);
               $(input[0]).css('display','none');
+
               if(!isAdmin)
                 highlight(input.parent().parent());
 
