@@ -19,13 +19,14 @@ $(function() {
   };
 
   var isAdmin = (getParameterByName('blubb')==='admin');
-  var numOfTickets = 20;
+  var numOfTickets = 50;
   var bases = ["red","blue","green"];
 
   var updateInterval = null;
   var displayItem = "<div data-id='#ID' data-category='#CATEGORY' class='line'><label><input type='checkbox' data-type='book' /> <span>Lott #ID</span></label></div>";
   var adminItem = "<div><input type='checkbox' data-type='delete'><span>delete</span></input>&nbsp;&nbsp;&nbsp;<input type='checkbox' data-type='payed'><span>payed</span></input></div>";
-  $("#btnSubmit").html('Uppdatera');
+  if(isAdmin)
+    $("#btnSubmit").html('Uppdatera');
 
   var print = function(error,message){
     console.log("print",error,message);

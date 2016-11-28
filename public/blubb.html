@@ -16,7 +16,7 @@
 <form id="form">
   <div class="container-fluid">
 
-    <h1>Jullotteri <small>Folkspels årliga supaspel.</small></h1>
+    <h1>Lotteri <small>Folkspels årliga vinterlotteri.</small></h1>
 
     <div class="row">
       <div class="col-sm-8">
@@ -25,15 +25,17 @@
     </div>
 
     <div class="row">
-      <div class="col-sm-4">
-        <p>Folkspels årliga supa-lotteri.</p>
-        <p>Fyll i din folkspels epost address för att köpa lott. När du fått bekräftelse så betala in på Swish till xxx med ref xxx</p>
-        <p>Kryssa i de lotter du vill köpa i de olika serie.</p>
+      <div class="col-sm-5">
+        <p>Fyll i namn och epost address för att köpa lotter, läs igenom reglerna nedan. Efter ditt köp så kontrollera så det gick igenom och sedan Swish;a pengar till 070-632 10 00 (Jan Olsen) med 'JUL + epost' som meddelande. När det kommer en symbol efter ditt namn så har vi registrerat din betalning. Detta görs manuellt så dyker inte upp direkt bara för att du har betalat :)</p>
+        <p>Får du några problem med att köpa en lott kontakta Bäcker <i>(fredrick.backer@folkspel.se)</i></p>
+        <p>Om alla lotter säljs slut tidigt så kanske fler serier kommer att öpnnas.</p>
         <ul>
+          <li>20kr per lott.</li>
           <li>Max 2st lotter i varje serie.</li>
-          <li>50kr per lott</li>
-          <li>Om inte betalat inom 2 dagar så tar vi bort dig.</li>
-          <li>Du måste använda ditt för &amp; efternamn samt enbart använda en address.</li>
+          <li>Inte samma lott nr i olika serier.</li>
+          <li>Om du inte betalat inom 2 dagar så tar vi bort dina lotter.</li>
+          <li>Du måste använda ditt för &amp; efternamn.</li>
+          <li>Du får enbart använda en epost <i>(köper du fler, använd samma epost som första gågen).</i>)</li>
         </ul>      </div>
       <div class="col-sm-4">
         <div class="form-group">
@@ -44,21 +46,21 @@
           <label for="epost">E-post</label>
           <input type="email" class="form-control" id="email" placeholder="E-post">
         </div>
-        <p>Bryter du mot någon utav reglerna så tar IT dina pengar till sprit och du förlorar dina lotter.</p>
+        <p>Bryter du mot någon utav reglerna så tar IT dina pengar!!!</p>
         <button type="submit" class="btn btn-primary" id="btnSubmit">Boka lott</button>
       </div>
     </div>
 
     <div class="row main">
-      <div class="col-sm-3 my-block red">
+      <div class="col-xs-3 my-block red">
         <h3><small>Serie: </small>Röd<h3>
         <div id="block-red"></div>
       </div>
-      <div class="col-sm-3 my-block blue">
+      <div class="col-xs-3 my-block blue">
         <h3><small>Serie: </small>Blå<h3>
         <div id="block-blue"></div>
       </div>
-      <div class="col-sm-3 my-block green">
+      <div class="col-xs-3 my-block green">
         <h3><small>Serie: </small>Grön<h3>
         <div id="block-green"></div>
       </div>
