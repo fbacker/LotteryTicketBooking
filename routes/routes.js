@@ -1,7 +1,7 @@
 var fs = require("fs");
 var moment = require("moment");
-var limitCategory = 4;
-var limitTotal = 10;
+var limitCategory = 100;
+var limitTotal = 2;
 var list = [];
 
 function checkFile(){
