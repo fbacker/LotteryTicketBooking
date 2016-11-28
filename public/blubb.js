@@ -20,7 +20,7 @@ $(function() {
 
   var isAdmin = (getParameterByName('blubb')==='admin');
   var numOfTickets = 50;
-  var bases = ["red","blue","green"];
+  var bases = ["red","blue","green","purple"];
 
   var updateInterval = null;
   var displayItem = "<div data-id='#ID' data-category='#CATEGORY' class='line'><label><input type='checkbox' data-type='book' /> <span>Lott #ID</span></label></div>";
@@ -158,7 +158,7 @@ $(function() {
             if(!input[0].disabled || isAdmin){
               var name = item.id +": "+item.name;
               if(item.payed)
-                name += " <i class='fa fa-gratipay' />";
+                name += " <i class='fa fa-euro' />";
               if(isAdmin)
                 name += "<br />"+item.email+"<br />"+item.date;
               $($($currentElement).find('span')[0]).html(name);

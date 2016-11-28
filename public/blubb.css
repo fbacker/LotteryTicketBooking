@@ -40,13 +40,16 @@ input[type=checkbox]{
   border-color: #a7a7a7;
 }
 .red {
-  background-color: rgba(255,0,0,0.2);
+  background-color: rgba(255,0,0,0.3);
 }
 .green {
-  background-color: rgba(0,255,0,0.2);
+  background-color: rgba(0,255,0,0.3);
 }
 .blue {
-  background-color: rgba(0,0,255,0.2);
+  background-color: rgba(0,0,255,0.3);
+}
+.purple {
+  background-color: rgba(103, 58, 183, 0.3);
 }
 
 .highlighted {
