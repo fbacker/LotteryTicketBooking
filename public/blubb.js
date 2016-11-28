@@ -160,7 +160,7 @@ $(function() {
               if(item.payed)
                 name += " <i class='fa fa-gratipay' />";
               if(isAdmin)
-                name += "<br />"+item.email;
+                name += "<br />"+item.email+"<br />"+item.date;
               $($($currentElement).find('span')[0]).html(name);
               $($($currentElement).find('span')[0]).css('font-weight', '400');
               $(input[0]).attr('disabled',true);
