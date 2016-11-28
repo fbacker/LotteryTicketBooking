@@ -134,11 +134,10 @@ $(function() {
               tout = 'Blå';
               break;
           }
-
           print(true,"Du kan inte köpa fler än maxgränsen utav lotter i serie "+tout+".");
         }
         else if(jqxhr.status===404){ // category max limit
-          print(true,"Du kan inte köpa lott "+jqxhr.responseText+" då du redan har köpt den i en annan serie.");
+          print(true,"Du får inte köpa samma lottnr i olika serier.");
         }
         load();
     });

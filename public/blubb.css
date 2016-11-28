@@ -32,12 +32,13 @@ input[type=checkbox]{
   /*padding:10px;*/
 }
 .my-block{
-  margin:10px;
+  /*margin:10px;*/
   border-radius: 10px;
   box-shadow: 0px 0px 10px #888888;
   border-style: solid;
   border-width: 1px;
   border-color: #a7a7a7;
+  padding: 10px;
 }
 .red {
   background-color: rgba(255,0,0,0.3);
