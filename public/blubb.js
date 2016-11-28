@@ -20,7 +20,7 @@ $(function() {
 
   var isAdmin = (getParameterByName('blubb')==='admin');
   var numOfTickets = 50;
-  var bases = ["red","blue","green","purple"];
+  var bases = ["red","blue","green","yellow"];
 
   var updateInterval = null;
   var displayItem = "<div data-id='#ID' data-category='#CATEGORY' class='line'><label><input type='checkbox' data-type='book' /> <span>Lott #ID</span></label></div>";
@@ -132,6 +132,9 @@ $(function() {
               break;
             case 'blue':
               tout = 'Blå';
+              break;
+            case 'yellow':
+              tout = 'Gul';
               break;
           }
           print(true,"Du kan inte köpa fler än maxgränsen utav lotter i serie "+tout+".");
