@@ -68,10 +68,14 @@ $(function() {
   $( "#form" ).submit(function( event ) {
     event.preventDefault();
 
-    var email = $("#email").val().toLowerCase();
-    var name = $("#name").val().toLowerCase();
+    var email = $("#email").val().toLowerCase().trim();
+    var name = $("#name").val().toLowerCase().trim();
     if(name.length<2&&!isAdmin){
       print(true,"Du måste fylla i ett namn.");
+      return;
+    }
+    if(name.split(" ").length<2){
+      print(true,"Du måste fylla förnamn &amp; efternamn.");
       return;
     }
     if(!validateEmail(email)&&!isAdmin){
