@@ -74,7 +74,7 @@ $(function() {
       print(true,"Du måste fylla i ett namn.");
       return;
     }
-    if(name.split(" ").length<2){
+    if(name.split(" ").length<2&&!isAdmin){
       print(true,"Du måste fylla förnamn &amp; efternamn.");
       return;
     }
