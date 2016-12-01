@@ -188,14 +188,13 @@ var appRouter = function(app) {
 
 	console.log("email",mailOptions);
 	// send mail
-	/*
+	
 	transporter.sendMail(mailOptions, function(error, info){
 		if(error){
 			return console.log(error);
 		}
 		console.log('Message sent: ' + info.response);
 	});
-	*/
 	
     return res.send({status:true});
   });
