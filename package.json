@@ -13,7 +13,8 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "moment": "^2.16.0"
+    "moment": "^2.16.0",
+    "nodemailer": "^2.6.4"
   },
   "devDependencies": {
     "css-loader": "^0.26.0",
