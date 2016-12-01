@@ -4,6 +4,15 @@ var limitCategory = 100;
 var limitTotal = 2;
 var list = [];
 
+var smtpConfig = {
+    host: 'smtp.folkspel.se',
+    port: 25,
+    secure: false
+};
+
+var nodemailer = require('nodemailer');
+var transporter = nodemailer.createTransport(smtpConfig);
+
 function checkFile(){
   fs.stat('list.json',function(err, stats){
     if(err){
@@ -69,6 +78,19 @@ function ticketsInCategory(localList,category){
     if(localList[i].category===category) tickets.push(localList[i]);
   }
   return tickets;
+}
+
+function categoryPretty(cat){
+	switch(cat){
+		case "red":
+			return "Röd";
+		case "blue":
+			return "Blå";
+		case "green":
+			return "Grön";
+		case "yellow":
+			return "Gul";
+	}
 }
 
 var appRouter = function(app) {
@@ -142,15 +164,39 @@ var appRouter = function(app) {
     // we are good to save
     name = toTitleCase(name);
     //var name = toTitleCase(email.split("@")[0].split(".").join(' '));
+	var emailList = "";
+	var emailListText = "";
     for(var i = 0; i < selected.length; i++){
       selected[i].date = moment().format('YYYY-MM-DD HH:MM:ss');
       selected[i].email = email;
       selected[i].name = name;
       selected[i].payed = false;
       list.push(selected[i]);
+	  emailList += "<li>"+categoryPretty(selected[i].category)+", "+selected[i].id+"</li>";
+	  emailListText += categoryPretty(selected[i].category)+", "+selected[i].id+"\n";
     }
     saveFile();
 
+	// setup e-mail
+	var mailOptions = {
+		from: 'no.reply@folkspel.se', // sender address
+		to: email, // list of receivers
+		subject: 'Jullotteriet. Hurra!!!', // Subject line
+		text: 'Grattis.\nDu har köpt lotterna:'+emailListText+'\nVi önskar dig all lycka.', // plaintext body
+		html: '<p><b>Grattis</b></p><p>Du har köpt lotterna</p><ul>'+emailList+'</ul><p>Vi önskar dig all lycka.</p>' // html body
+	};
+
+	console.log("email",mailOptions);
+	// send mail
+	/*
+	transporter.sendMail(mailOptions, function(error, info){
+		if(error){
+			return console.log(error);
+		}
+		console.log('Message sent: ' + info.response);
+	});
+	*/
+	
     return res.send({status:true});
   });
 
