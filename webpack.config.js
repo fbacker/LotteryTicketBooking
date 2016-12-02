@@ -4,6 +4,7 @@ var webpack = require('webpack');
 var EncodingPlugin = require('webpack-encoding-plugin');
 var ExtractTextPlugin = require("extract-text-webpack-plugin");
 
+
 var extractCSS = new ExtractTextPlugin('client.min.css');
 var extractHTML = new ExtractTextPlugin('index.html');
 
@@ -31,12 +32,24 @@ var config = {
         loaders: [
           {
             test: /\.css$/,
-            loader: extractCSS.extract("style-loader", "css-loader")
+            loader: extractCSS.extract("style-loader", "css-loader", "autoprefixer-loader?browsers=last 2 versions")
           },
           {
             test: /\.html$/,
-             loader: extractHTML.extract('raw-loader!html-minifier-loader')
+             loader: extractHTML.extract('raw-loader!html-minifier-loader!string-replace?search=blubb.css&replace=client.min.css!string-replace?search=blubb.js&replace=client.min.js')
           }
+		  /*,
+          {
+            test: /\.html$/,
+             loader: extractHTML.extract('string-replace'),
+			 query: {
+			  multiple: [
+				{search: 'blubb.css', replace: 'client.min.css'},
+				{search: 'blubb.js', replace: 'client.min.js'}
+			  ]
+			}
+          },
+		  */
         ]
     },
     plugins: [
@@ -50,7 +63,8 @@ var config = {
             },
             output: {
                 comments: false
-            }
+            },
+			mangle: false
         })
     ]
 };
