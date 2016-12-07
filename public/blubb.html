@@ -11,7 +11,7 @@
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-  <link href="blubb.css" rel="stylesheet">
+  <link href="blubb.css?v=2" rel="stylesheet">
 </head>
 <body>
 
@@ -38,7 +38,7 @@
           <li>Betala genom att Swish:a pengar till 0706 321 000 (Jan Olsen) med 'lotteri' i meddelandefältet.</li>
           <li><b>OBS:</b> Betalar du inte med eget Swisch konto så ange även namn i meddelandefältet.</li>
           <li>När din betalning har registrerats kommer det att dyka upp en € symbol efter ditt namn i lottbutiken. Det kan ta ett tag innan symbolen dyker upp efter ditt namn.</li>
-          
+
         </ul>
         <p>Får du några problem med att köpa en lott kontakta Bäcker <i>(<a href="mailto:fredrick.backer@folkspel.se">fredrick.backer@folkspel.se</a>)</i></p>
         <p>Om alla lotter säljs slut tidigt så kanske fler serier kommer att öppnas.</p>
@@ -50,6 +50,11 @@
           <li>När alla har haft möjlighet att köpa så släpps resterande lotter fria till försäljning.</li>
           <li>Om du INTE betalat inom 24h så tar systemet bort ditt lottköp automatiskt.</li>
           <li>Du får enbart använda en e-post <i>(köper du fler, använd samma e-post som första gången).</i></li>
+        </ul>
+        <h3>Lite hjälp</h3>
+        <ul>
+          <li>Scrolla för att se alla 6 serierna.</li>
+          <li>Kan inte köpa eller sidan ser konstigt ut, använd <b>inte</b> Internet Explorer 10.</li>
         </ul>
       </div>
       <div class="col-sm-4">
@@ -63,37 +68,52 @@
         </div>
         <p>Bryter du mot någon utav reglerna så tar IT dina pengar!!!</p>
         <button type="submit" class="btn btn-primary" id="btnSubmit">Boka lotter</button>
-		<img src="santa1.gif" />
+		      <img src="santa1.gif" />
       </div>
     </div>
 
-    <div class="row main" style="padding-top:10px;">
+    <div class="main" style="padding-top:10px;">
+      <div class="row">
+        <div class="col-md-3  col-xs-6">
+          <div class="my-block pink">
+            <h3><small>Serie: </small>Rosa</h3>
+            <div id="block-pink"></div>
+          </div>
+        </div>
+        <div class="col-md-3  col-xs-6">
+          <div class="my-block orange">
+            <h3><small>Serie: </small>Orange</h3>
+            <div id="block-orange"></div>
+          </div>
+        </div>
+        <div class="col-md-3  col-xs-6">
+          <div class="my-block yellow">
+            <h3><small>Serie: </small>Gul</h3>
+            <div id="block-yellow"></div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-3 col-xs-6 ">
+          <div class="my-block red">
+            <h3><small>Serie: </small>Röd</h3>
+            <div id="block-red"></div>
+          </div>
+        </div>
+        <div class="col-md-3 col-xs-6">
+          <div class="my-block blue">
+            <h3><small>Serie: </small>Blå</h3>
+            <div id="block-blue"></div>
+          </div>
+        </div>
+        <div class="col-md-3 col-xs-6">
+          <div class="my-block green">
+            <h3><small>Serie: </small>Grön</h3>
+            <div id="block-green"></div>
+          </div>
+        </div>
 
-      <div class="col-md-3 col-xs-6 ">
-        <div class="my-block red">
-          <h3><small>Serie: </small>Röd</h3>
-          <div id="block-red"></div>
-        </div>
       </div>
-      <div class="col-md-3 col-xs-6">
-        <div class="my-block blue">
-          <h3><small>Serie: </small>Blå</h3>
-          <div id="block-blue"></div>
-        </div>
-      </div>
-      <div class="col-md-3 col-xs-6">
-        <div class="my-block green">
-          <h3><small>Serie: </small>Grön</h3>
-          <div id="block-green"></div>
-        </div>
-      </div>
-      <div class="col-md-3  col-xs-6">
-        <div class="my-block yellow">
-          <h3><small>Serie: </small>Gul</h3>
-          <div id="block-yellow"></div>
-        </div>
-      </div>
-
     </div>
 
   </div>
@@ -101,6 +121,6 @@
 
 
 
-<script src="blubb.js?v=3"></script>
+<script src="blubb.js?v=4"></script>
 </body>
 </html>

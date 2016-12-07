@@ -20,7 +20,7 @@ $(function() {
 
   var isAdmin = (getParameterByName('blubb')==='admin');
   var numOfTickets = 50;
-  var bases = ["red","blue","green","yellow"];
+  var bases = ["red","blue","green","yellow","pink","orange"];
 
   var updateInterval = null;
   var displayItem = "<div data-id='#ID' data-category='#CATEGORY' class='line'><label><input type='checkbox' data-type='book' /> <span>Lott #ID</span></label></div>";

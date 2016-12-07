@@ -1,7 +1,7 @@
 var fs = require("fs");
 var moment = require("moment");
-var limitCategory = 100;
-var limitTotal = 2;
+var limitCategory = 1000;
+var limitTotal = 1000;
 var list = [];
 
 var smtpConfig = {
@@ -90,6 +90,10 @@ function categoryPretty(cat){
 			return "Grön";
 		case "yellow":
 			return "Gul";
+    case "pink":
+      return "Rosa";
+    case "orange":
+      return "Orange";
 	}
 }
 
@@ -188,14 +192,14 @@ var appRouter = function(app) {
 
 	console.log("email",mailOptions);
 	// send mail
-	
+
 	transporter.sendMail(mailOptions, function(error, info){
 		if(error){
 			return console.log(error);
 		}
 		console.log('Message sent: ' + info.response);
 	});
-	
+
     return res.send({status:true});
   });
 
