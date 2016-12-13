@@ -1,1 +1,132 @@
-<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="X-UA-Compatible" content="IE=edge;"><script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script><link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet"><link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"><link href="blubb.css?v=2" rel="stylesheet"></head><body><form id="form"><div class="container-fluid"><h1>Folkspels stora Jullotteri <small>2016</small></h1><div class="row"><div class="col-sm-8"><div id="alerts"></div></div></div><div class="row"><div class="col-sm-7"><p>Välkommen till Folkspels jullottsbutik. Denna sida övervakas och kontrolleras av Folkspel IT.</p><p>För att köpa lott gör ni enligt följande.</p><ul><li>Börja med att läs igenom lotterireglerna längst ner på denna sida.</li><li>Fyll i för- och efternamn samt e-post i erforderliga fält.</li><li>Kontrollera att köpet gått igenom innan du betalar.</li><li>Köpet har gått igenom om ditt namn kommer upp efter de nummer du avsett köpa.</li><li>Betala genom att Swish:a pengar till 0706 321 000 (Jan Olsen) med 'lotteri' i meddelandefältet.</li><li><b>OBS:</b> Betalar du inte med eget Swisch konto så ange även namn i meddelandefältet.</li><li>När din betalning har registrerats kommer det att dyka upp en € symbol efter ditt namn i lottbutiken. Det kan ta ett tag innan symbolen dyker upp efter ditt namn.</li></ul><p>Får du några problem med att köpa en lott kontakta Bäcker <i>(<a href="mailto:fredrick.backer@folkspel.se">fredrick.backer@folkspel.se</a>)</i></p><p>Om alla lotter säljs slut tidigt så kanske fler serier kommer att öppnas.</p><h3>Lotteriregler</h3><ul><li>Kostnaden är 20 kr per lott.</li><li>Det går inte att köpa samma lottnummer i de olika serierna.</li><li>Max två lotter per person vid det första lottsläppet.</li><li>När alla har haft möjlighet att köpa så släpps resterande lotter fria till försäljning.</li><li>Om du INTE betalat inom 24h så tar systemet bort ditt lottköp automatiskt.</li><li>Du får enbart använda en e-post <i>(köper du fler, använd samma e-post som första gången).</i></li></ul><h3>Lite hjälp</h3><ul><li>Scrolla för att se alla 6 serierna.</li><li>Kan inte köpa eller sidan ser konstigt ut, använd <b>inte</b> Internet Explorer 10.</li></ul></div><div class="col-sm-4"><div class="form-group"><label for="name">Namn</label><input type="text" class="form-control" id="name" placeholder="För- och Efternamn"></div><div class="form-group"><label for="epost">E-post</label><input type="email" class="form-control" id="email" placeholder="E-post"></div><p>Bryter du mot någon utav reglerna så tar IT dina pengar!!!</p><button type="submit" class="btn btn-primary" id="btnSubmit">Boka lotter</button> <img src="santa1.gif"></div></div><div class="main" style="padding-top:10px"><div class="row"><div class="col-md-3 col-xs-6"><div class="my-block pink"><h3><small>Serie: </small>Rosa</h3><div id="block-pink"></div></div></div><div class="col-md-3 col-xs-6"><div class="my-block orange"><h3><small>Serie: </small>Orange</h3><div id="block-orange"></div></div></div><div class="col-md-3 col-xs-6"><div class="my-block yellow"><h3><small>Serie: </small>Gul</h3><div id="block-yellow"></div></div></div></div><div class="row"><div class="col-md-3 col-xs-6"><div class="my-block red"><h3><small>Serie: </small>Röd</h3><div id="block-red"></div></div></div><div class="col-md-3 col-xs-6"><div class="my-block blue"><h3><small>Serie: </small>Blå</h3><div id="block-blue"></div></div></div><div class="col-md-3 col-xs-6"><div class="my-block green"><h3><small>Serie: </small>Grön</h3><div id="block-green"></div></div></div></div></div></div></form><script src="blubb.js?v=4"></script></body></html>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge;" />
+  <script
+    src="https://code.jquery.com/jquery-3.1.1.min.js"
+    integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="blubb.css?v=2" rel="stylesheet">
+</head>
+<body>
+
+<form id="form">
+  <div class="container-fluid">
+
+    <h1>Folkspels stora Jullotteri <small>2016</small></h1>
+
+    <div class="row">
+      <div class="col-sm-8">
+        <div id="alerts"></div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-7">
+        <p>Välkommen till Folkspels jullottsbutik. Denna sida övervakas och kontrolleras av Folkspel IT.</p>
+        <p>För att köpa lott gör ni enligt följande.</p>
+        <ul>
+          <li>Börja med att läs igenom lotterireglerna längst ner på denna sida.</li>
+          <li>Fyll i för- och efternamn samt e-post i erforderliga fält.</li>
+          <li>Kontrollera att köpet gått igenom innan du betalar.</li>
+          <li>Köpet har gått igenom om ditt namn kommer upp efter de nummer du avsett köpa.</li>
+          <li>Betala genom att Swish:a pengar till 0706 321 000 (Jan Olsen) med 'lotteri' i meddelandefältet.</li>
+          <li><b>OBS:</b> Betalar du inte med eget Swisch konto så ange även namn i meddelandefältet.</li>
+          <li>När din betalning har registrerats kommer det att dyka upp en € symbol efter ditt namn i lottbutiken. Det kan ta ett tag innan symbolen dyker upp efter ditt namn.</li>
+
+        </ul>
+        <p>Får du några problem med att köpa en lott kontakta Bäcker <i>(<a href="mailto:fredrick.backer@folkspel.se">fredrick.backer@folkspel.se</a>)</i></p>
+        <p>Om alla lotter säljs slut tidigt så kanske fler serier kommer att öppnas.</p>
+        <h3>Lotteriregler</h3>
+        <ul>
+          <li>Kostnaden är 20 kr per lott.</li>
+          <li>Det går inte att köpa samma lottnummer i de olika serierna.</li>
+          <li>Max två lotter per person vid det första lottsläppet.</li>
+          <li>När alla har haft möjlighet att köpa så släpps resterande lotter fria till försäljning.</li>
+          <li>Om du INTE betalat inom 24h så tar systemet bort ditt lottköp automatiskt.</li>
+          <li>Du får enbart använda en e-post <i>(köper du fler, använd samma e-post som första gången).</i></li>
+        </ul>
+        <h3>Lite hjälp</h3>
+        <ul>
+          <li>Scrolla för att se alla 6 serierna.</li>
+          <li>Kan inte köpa eller sidan ser konstigt ut, använd <b>inte</b> Internet Explorer 10.</li>
+        </ul>
+      </div>
+      <div class="col-sm-4">
+        <p>Lotteriet är stängt.</p>
+        <img src="santa1.gif" />
+      </div>
+      <!--
+      <div class="col-sm-4">
+        <div class="form-group">
+          <label for="name">Namn</label>
+          <input type="text" class="form-control" id="name" placeholder="För- och Efternamn">
+        </div>
+        <div class="form-group">
+          <label for="epost">E-post</label>
+          <input type="email" class="form-control" id="email" placeholder="E-post">
+        </div>
+        <p>Bryter du mot någon utav reglerna så tar IT dina pengar!!!</p>
+        <button type="submit" class="btn btn-primary" id="btnSubmit">Boka lotter</button>
+		      <img src="santa1.gif" />
+      </div>
+    -->
+    </div>
+
+    <div class="main" style="padding-top:10px;">
+      <div class="row">
+        <div class="col-md-3  col-xs-6">
+          <div class="my-block pink">
+            <h3><small>Serie: </small>Rosa</h3>
+            <div id="block-pink"></div>
+          </div>
+        </div>
+        <div class="col-md-3  col-xs-6">
+          <div class="my-block orange">
+            <h3><small>Serie: </small>Orange</h3>
+            <div id="block-orange"></div>
+          </div>
+        </div>
+        <div class="col-md-3  col-xs-6">
+          <div class="my-block yellow">
+            <h3><small>Serie: </small>Gul</h3>
+            <div id="block-yellow"></div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-3 col-xs-6 ">
+          <div class="my-block red">
+            <h3><small>Serie: </small>Röd</h3>
+            <div id="block-red"></div>
+          </div>
+        </div>
+        <div class="col-md-3 col-xs-6">
+          <div class="my-block blue">
+            <h3><small>Serie: </small>Blå</h3>
+            <div id="block-blue"></div>
+          </div>
+        </div>
+        <div class="col-md-3 col-xs-6">
+          <div class="my-block green">
+            <h3><small>Serie: </small>Grön</h3>
+            <div id="block-green"></div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</form>
+
+
+
+<script src="blubb.js?v=4"></script>
+</body>
+</html>
