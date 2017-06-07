@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, RESULT-RAPPORT
+
+=================================
+Name: Numbers 37
+Datum: 2016-12-21 10:25:46
+Seed: 67477874
+---------------------------------
+
+Num	(Random)		Item
+01	(31 140 194)		blue, isabelle.trysberg@folkspel.se, Isabelle Trysberg		
+02	(53 291 712)		orange, carina.persson@folkspel.se, Carina Persson		
+03	(55 161 370)		pink, erik.zetterstrom@folkspel.se, Erik Zetterström		
+04	(66 514 392)		red, andreas.branting@folkspel.se, Andreas Branting		
+05	(68 301 231)		yellow, tobias.winsnes@folkspel.se, Tobias Winsnes		
+06	(84 816 521)		green, mattias.jacobsson@folkspel.se, Mattias Jacobsson		

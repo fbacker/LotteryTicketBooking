@@ -1,0 +1,42 @@
+{
+  "Data": [
+    {
+      "Input": "blue, calle.hellemar@folkspel.se, Calle Hellemar",
+      "Addon": "",
+      "Number": 1,
+      "Random": 24366987
+    },
+    {
+      "Input": "red, chatrine.rodal@folkspel.se, Chatrine Rodal",
+      "Addon": "",
+      "Number": 2,
+      "Random": 39893486
+    },
+    {
+      "Input": "orange, peter.klaesson@folkspel.se, Peter Klaesson",
+      "Addon": "",
+      "Number": 3,
+      "Random": 46290524
+    },
+    {
+      "Input": "pink, marcus.angelin@folkspel.se, Marcus Angelin",
+      "Addon": "",
+      "Number": 4,
+      "Random": 68422531
+    },
+    {
+      "Input": "green, annika.johanson@folkspel.se, Annika Johanson",
+      "Addon": "",
+      "Number": 5,
+      "Random": 77498667
+    },
+    {
+      "Input": "yellow, tobias.winsnes@folkspel.se, Tobias Winsnes",
+      "Addon": "",
+      "Number": 6,
+      "Random": 77617355
+    }
+  ],
+  "DateCreated": "2016-12-21T10:25:20.5633043+01:00",
+  "Seed": 32147874
+}

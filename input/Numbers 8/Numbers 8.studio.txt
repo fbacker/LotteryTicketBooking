@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 8
+Datum: 2016-12-21 10:26:30
+---------------------------------
+
+1	red, fredrik.larsson@folkspel.se, Fredrik Larsson		
+2	blue, niclas.carlsson@folkspel.se, Niclas Carlsson		
+3	orange, johan.nilsson@folkspel.se, Johan Nilsson		
+4	yellow, mattias.jacobsson@folkspel.se, Mattias Jacobsson		
+5	green, peter.klaesson@folkspel.se, Peter Klaesson		
+6	pink, paula.szabo@folkspel.se, Paula Szabo		

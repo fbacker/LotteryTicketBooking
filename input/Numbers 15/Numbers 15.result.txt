@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, RESULT-RAPPORT
+
+=================================
+Name: Numbers 15
+Datum: 2016-12-21 10:24:46
+Seed: 54678454
+---------------------------------
+
+Num	(Random)		Item
+01	(11 297 569)		pink, nenna.molin@gmail.com, Nenna Molin		
+02	(19 960 858)		yellow, jens.mikkelsen@folkspel.se, Jens Mikkelsen		
+03	(29 818 569)		orange, pia.gustafsson@folkspel.se, Pia Gustafsson		
+04	(49 517 990)		green, nenna.molin@folkspel.se, Nenna Molin		
+05	(59 387 744)		blue, peter.zamola@folkspel.se, Peter Zamola		
+06	(85 735 071)		red, niclas.carlsson@folkspel.se, Niclas Carlsson		

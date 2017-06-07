@@ -1,0 +1,6 @@
+blue, jens.mikkelsen@folkspel.se, Jens Mikkelsen
+green, mattias.jacobsson@folkspel.se, Mattias Jacobsson
+yellow, jonas.sund@folkspel.se, Jonas Sund
+red, jorgen.bostrom@folkspel.se, Jörgen Boström
+orange, erik.zetterstrom@folkspel.se, Erik Zetterström
+pink, marcus.angelin@folkspel.se, Marcus Angelin

@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, PRE-RAPPORT
+
+=================================
+Name: Numbers 25
+Datum: 2016-12-21 10:25:16
+Seed: 2317874
+---------------------------------
+
+Num	(Random)		Item
+1	(92 821 440)		blue, berntsson.carolina@gmail.com, Carolina Berntsson
+2	(22 636 211)		green, amanda.nilsson@folkspel.se, Amanda Nilsson
+3	(27 350 147)		yellow, carina.almquist@folkspel.se, Carina Almquist
+4	(36 893 757)		red, jens.mikkelsen@folkspel.se, Jens Mikkelsen
+5	(96 296 864)		orange, nenna.molin@gmail.com, Nenna Molin
+6	 (9 035 300)		pink, peter.klaesson@folkspel.se, Peter Klaesson

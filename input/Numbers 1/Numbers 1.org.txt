@@ -1,0 +1,6 @@
+red, helene.andersson@folkspel.se, Helene Andersson
+green, anders.wallen@folkspel.se, Anders Wallén
+blue, jessica.ehrnbring@folkspel.se, Jessica Ehrnbring
+yellow, mikael.kjellstrom@folkspel.se, Mikael Kjellström
+orange, jorgen.bostrom@folkspel.se, Jörgen Boström
+pink, paula.szabo@folkspel.se, Paula Szabo

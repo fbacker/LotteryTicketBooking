@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 10
+Datum: 2016-12-21 10:24:35
+Seed: 65478811
+---------------------------------
+
+Num	(Random)		Item
+5	 (6 687 505)		orange, dick.kullendal@folkspel.se, Dick Kullendal
+3	 (7 398 958)		red, jessica.hultgren@folkspel.se, Jessica Hultgren
+6	(53 244 154)		pink, sprangers.william@gmail.com, William Sprangers
+2	(65 840 330)		blue, fredrik.eriksson@folkspel.se, Fredrik Eriksson
+4	(67 830 994)		green, victor.strom@folkspel.se, Victor Ström
+1	(70 367 511)		yellow, helene.andersson@folkspel.se, Helene Andersson

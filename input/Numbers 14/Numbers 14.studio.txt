@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 14
+Datum: 2016-12-21 10:24:44
+---------------------------------
+
+1	red, anders.wallen@folkspel.se, Anders Wallén		
+2	orange, dick.kullendal@folkspel.se, Dick Kullendal		
+3	pink, erik.zetterstrom@folkspel.se, Erik Zetterström		
+4	green, maria.arleback@folkspel.se, Maria Arlebäck		
+5	blue, fredrick.backer@folkspel.se, Fredrick Bäcker		
+6	yellow, mans.billing@folkspel.se, Måns Billing		

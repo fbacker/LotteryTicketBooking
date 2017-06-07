@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, RESULT-RAPPORT
+
+=================================
+Name: Numbers 32
+Datum: 2016-12-21 10:25:35
+Seed: 32545454
+---------------------------------
+
+Num	(Random)		Item
+01	 (6 254 923)		yellow, thomas.wedin@folkspel.se, Thomas Wedin		
+02	 (9 390 655)		red, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius		
+03	(23 339 339)		blue, mia.hjerpe@gmail.com, Mia Hjerpe		
+04	(32 860 948)		orange, birgitta.hermansson@folkspel.se, Birgitta Hermansson		
+05	(33 756 345)		green, jorgen.bostrom@folkspel.se, Jörgen Boström		
+06	(40 904 684)		pink, marie.rehnberg@folkspel.se, Marie Rehnberg		

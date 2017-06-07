@@ -1,0 +1,6 @@
+yellow, tobias.sjolund@folkspel.se, Tobias Sjölund
+green, erik.zetterstrom@folkspel.se, Erik Zetterström
+red, fredrik.eriksson@folkspel.se, Fredrik Eriksson
+blue, emma.vikla@folkspel.se, Emma Vikla
+pink, paula.szabo@folkspel.se, Paula Szabo
+orange, karin.hallberg@folkspel.se, Karin Hallberg

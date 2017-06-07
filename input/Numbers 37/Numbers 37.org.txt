@@ -1,0 +1,6 @@
+red, andreas.branting@folkspel.se, Andreas Branting
+blue, isabelle.trysberg@folkspel.se, Isabelle Trysberg
+green, mattias.jacobsson@folkspel.se, Mattias Jacobsson
+yellow, tobias.winsnes@folkspel.se, Tobias Winsnes
+pink, erik.zetterstrom@folkspel.se, Erik Zetterström
+orange, carina.persson@folkspel.se, Carina Persson

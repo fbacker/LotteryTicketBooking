@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, RESULT-RAPPORT
+
+=================================
+Name: Numbers 6
+Datum: 2016-12-21 10:26:25
+Seed: 35669775
+---------------------------------
+
+Num	(Random)		Item
+01	 (3 274 467)		green, karin.hallberg@folkspel.se, Karin Hallberg		
+02	(11 640 937)		yellow, fredrik.larsson@folkspel.se, Fredrik Larsson		
+03	(21 248 708)		blue, fredrick.backer@folkspel.se, Fredrick Bäcker		
+04	(66 698 828)		red, annika.johanson@folkspel.se, Annika Johanson		
+05	(82 005 030)		orange, emelie.courleux@folkspel.se, Emelie Courleux		
+06	(85 562 221)		pink, mans.billing@folkspel.se, Måns Billing		

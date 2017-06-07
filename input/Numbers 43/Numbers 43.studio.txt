@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 43
+Datum: 2016-12-21 10:26:03
+---------------------------------
+
+1	yellow, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius		
+2	green, fredrick.backer@folkspel.se, Fredrick Bäcker		
+3	pink, mans.billing@folkspel.se, Måns Billing		
+4	red, marie.rehnberg@folkspel.se, Marie Rehnberg		
+5	orange, jonathan.n.carlsson@gmail.com, Jonathan Carlsson		
+6	blue, mattias.jacobsson@folkspel.se, Mattias Jacobsson		

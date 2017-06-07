@@ -1,0 +1,6 @@
+blue, torbjorn.bergman@folkspel.se, Torbjörn Bergman
+green, niclas.carlsson@folkspel.se, Niclas Carlsson
+red, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius
+yellow, johanna.jacobsson@folkspel.se, Johanna Jacobsson
+pink, erik.zetterstrom@folkspel.se, Erik Zetterström
+orange, anders.wallen@folkspel.se, Anders Wallén

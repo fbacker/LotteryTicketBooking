@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, RESULT-RAPPORT
+
+=================================
+Name: Numbers 29
+Datum: 2016-12-21 10:25:25
+Seed: 12317487
+---------------------------------
+
+Num	(Random)		Item
+01	 (3 479 303)		blue, mattias.jacobsson@folkspel.se, Mattias Jacobsson		
+02	 (5 183 889)		red, mark.nydeus@folkspel.se, Mark Nydeus		
+03	(18 471 984)		pink, marcus.angelin@folkspel.se, Marcus Angelin		
+04	(50 597 503)		orange, johan.nilsson@folkspel.se, Johan Nilsson		
+05	(59 333 456)		yellow, veronica.oxhagen@folkspel.se, Veronica Thoren Oxhagen		
+06	(78 928 379)		green, berntsson.carolina@gmail.com, Carolina Berntsson		

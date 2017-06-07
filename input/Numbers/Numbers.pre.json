@@ -1,0 +1,306 @@
+{
+  "Data": [
+    {
+      "Input": "3",
+      "Addon": null,
+      "Number": 1,
+      "Random": 55904441
+    },
+    {
+      "Input": "29",
+      "Addon": null,
+      "Number": 2,
+      "Random": 19168943
+    },
+    {
+      "Input": "41",
+      "Addon": null,
+      "Number": 3,
+      "Random": 40334955
+    },
+    {
+      "Input": "21",
+      "Addon": null,
+      "Number": 4,
+      "Random": 43021015
+    },
+    {
+      "Input": "2",
+      "Addon": null,
+      "Number": 5,
+      "Random": 27961288
+    },
+    {
+      "Input": "4",
+      "Addon": null,
+      "Number": 6,
+      "Random": 84151613
+    },
+    {
+      "Input": "5",
+      "Addon": null,
+      "Number": 7,
+      "Random": 69090610
+    },
+    {
+      "Input": "15",
+      "Addon": null,
+      "Number": 8,
+      "Random": 98211087
+    },
+    {
+      "Input": "19",
+      "Addon": null,
+      "Number": 9,
+      "Random": 74460516
+    },
+    {
+      "Input": "36",
+      "Addon": null,
+      "Number": 10,
+      "Random": 76694761
+    },
+    {
+      "Input": "9",
+      "Addon": null,
+      "Number": 11,
+      "Random": 6305628
+    },
+    {
+      "Input": "14",
+      "Addon": null,
+      "Number": 12,
+      "Random": 78094874
+    },
+    {
+      "Input": "37",
+      "Addon": null,
+      "Number": 13,
+      "Random": 7993293
+    },
+    {
+      "Input": "28",
+      "Addon": null,
+      "Number": 14,
+      "Random": 15014201
+    },
+    {
+      "Input": "13",
+      "Addon": null,
+      "Number": 15,
+      "Random": 99335375
+    },
+    {
+      "Input": "20",
+      "Addon": null,
+      "Number": 16,
+      "Random": 98927331
+    },
+    {
+      "Input": "1",
+      "Addon": null,
+      "Number": 17,
+      "Random": 62062419
+    },
+    {
+      "Input": "10",
+      "Addon": null,
+      "Number": 18,
+      "Random": 56744126
+    },
+    {
+      "Input": "17",
+      "Addon": null,
+      "Number": 19,
+      "Random": 91173238
+    },
+    {
+      "Input": "7",
+      "Addon": null,
+      "Number": 20,
+      "Random": 60121454
+    },
+    {
+      "Input": "43",
+      "Addon": null,
+      "Number": 21,
+      "Random": 62436734
+    },
+    {
+      "Input": "8",
+      "Addon": null,
+      "Number": 22,
+      "Random": 86058130
+    },
+    {
+      "Input": "39",
+      "Addon": null,
+      "Number": 23,
+      "Random": 57433536
+    },
+    {
+      "Input": "6",
+      "Addon": null,
+      "Number": 24,
+      "Random": 56613774
+    },
+    {
+      "Input": "26",
+      "Addon": null,
+      "Number": 25,
+      "Random": 32520564
+    },
+    {
+      "Input": "22",
+      "Addon": null,
+      "Number": 26,
+      "Random": 27638683
+    },
+    {
+      "Input": "16",
+      "Addon": null,
+      "Number": 27,
+      "Random": 62115380
+    },
+    {
+      "Input": "25",
+      "Addon": null,
+      "Number": 28,
+      "Random": 12150462
+    },
+    {
+      "Input": "27",
+      "Addon": null,
+      "Number": 29,
+      "Random": 57074492
+    },
+    {
+      "Input": "12",
+      "Addon": null,
+      "Number": 30,
+      "Random": 61887582
+    },
+    {
+      "Input": "24",
+      "Addon": null,
+      "Number": 31,
+      "Random": 62561607
+    },
+    {
+      "Input": "50",
+      "Addon": null,
+      "Number": 32,
+      "Random": 86311142
+    },
+    {
+      "Input": "40",
+      "Addon": null,
+      "Number": 33,
+      "Random": 74288954
+    },
+    {
+      "Input": "11",
+      "Addon": null,
+      "Number": 34,
+      "Random": 76551308
+    },
+    {
+      "Input": "45",
+      "Addon": null,
+      "Number": 35,
+      "Random": 28968817
+    },
+    {
+      "Input": "49",
+      "Addon": null,
+      "Number": 36,
+      "Random": 37569746
+    },
+    {
+      "Input": "23",
+      "Addon": null,
+      "Number": 37,
+      "Random": 73872651
+    },
+    {
+      "Input": "44",
+      "Addon": null,
+      "Number": 38,
+      "Random": 86319742
+    },
+    {
+      "Input": "33",
+      "Addon": null,
+      "Number": 39,
+      "Random": 56717449
+    },
+    {
+      "Input": "46",
+      "Addon": null,
+      "Number": 40,
+      "Random": 30403383
+    },
+    {
+      "Input": "42",
+      "Addon": null,
+      "Number": 41,
+      "Random": 39429955
+    },
+    {
+      "Input": "47",
+      "Addon": null,
+      "Number": 42,
+      "Random": 55403647
+    },
+    {
+      "Input": "48",
+      "Addon": null,
+      "Number": 43,
+      "Random": 40457562
+    },
+    {
+      "Input": "34",
+      "Addon": null,
+      "Number": 44,
+      "Random": 69529849
+    },
+    {
+      "Input": "35",
+      "Addon": null,
+      "Number": 45,
+      "Random": 22679038
+    },
+    {
+      "Input": "31",
+      "Addon": null,
+      "Number": 46,
+      "Random": 49838662
+    },
+    {
+      "Input": "30",
+      "Addon": null,
+      "Number": 47,
+      "Random": 55667946
+    },
+    {
+      "Input": "32",
+      "Addon": null,
+      "Number": 48,
+      "Random": 60113450
+    },
+    {
+      "Input": "38",
+      "Addon": null,
+      "Number": 49,
+      "Random": 97342667
+    },
+    {
+      "Input": "18",
+      "Addon": null,
+      "Number": 50,
+      "Random": 41070213
+    }
+  ],
+  "DateCreated": "2016-12-21T10:26:33.2501092+01:00",
+  "Seed": 36977544
+}

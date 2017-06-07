@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 41
+Datum: 2016-12-21 10:25:59
+---------------------------------
+
+1	red, anders.eldh@folkspel.se, Anders Eldh		
+2	yellow, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius		
+3	green, jens.mikkelsen@folkspel.se, Jens Mikkelsen		
+4	pink, karin.hallberg@folkspel.se, Karin Hallberg		
+5	orange, johan.lindqvist@folkspel.se, Johan Lindqvist		
+6	blue, annika.tunerbratt@folkspel.se, Annika Tunerbratt		

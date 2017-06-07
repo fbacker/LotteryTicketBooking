@@ -1,0 +1,6 @@
+red, marie.rehnberg@folkspel.se, Marie Rehnberg
+green, fredrick.backer@folkspel.se, Fredrick Bäcker
+blue, mattias.jacobsson@folkspel.se, Mattias Jacobsson
+yellow, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius
+pink, mans.billing@folkspel.se, Måns Billing
+orange, jonathan.n.carlsson@gmail.com, Jonathan Carlsson

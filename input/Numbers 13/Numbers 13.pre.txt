@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, PRE-RAPPORT
+
+=================================
+Name: Numbers 13
+Datum: 2016-12-21 10:24:43
+Seed: 13212454
+---------------------------------
+
+Num	(Random)		Item
+1	(34 032 369)		red, pia.gustafsson@folkspel.se, Pia Gustafsson
+2	(11 704 678)		blue, birgitta.hermansson@folkspel.se, Birgitta Hermansson
+3	(99 024 148)		yellow, peter.klaesson@folkspel.se, Peter Klaesson
+4	(21 036 988)		green, lisa.berge@folkspel.se, Lisa Berge
+5	(23 006 186)		pink, maria.lemback@folkspel.se, Maria Lembäck
+6	(77 649 870)		orange, paula.szabo@folkspel.se, Paula Szabo

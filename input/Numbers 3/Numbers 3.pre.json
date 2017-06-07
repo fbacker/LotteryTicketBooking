@@ -1,0 +1,42 @@
+{
+  "Data": [
+    {
+      "Input": "red, mattias.jacobsson@folkspel.se, Mattias Jacobsson",
+      "Addon": null,
+      "Number": 1,
+      "Random": 8715535
+    },
+    {
+      "Input": "green, jonas.sund@folkspel.se, Jonas Sund",
+      "Addon": null,
+      "Number": 2,
+      "Random": 51421575
+    },
+    {
+      "Input": "blue, carina.almquist@folkspel.se, Carina Almquist",
+      "Addon": null,
+      "Number": 3,
+      "Random": 15963278
+    },
+    {
+      "Input": "yellow, veronica.oxhagen@folkspel.se, Veronica Thoren Oxhagen",
+      "Addon": null,
+      "Number": 4,
+      "Random": 96659317
+    },
+    {
+      "Input": "pink, erik.zetterstrom@folkspel.se, Erik Zetterström",
+      "Addon": null,
+      "Number": 5,
+      "Random": 42978463
+    },
+    {
+      "Input": "orange, dick.kullendal@folkspel.se, Dick Kullendal",
+      "Addon": null,
+      "Number": 6,
+      "Random": 90693483
+    }
+  ],
+  "DateCreated": "2016-12-21T10:25:27.7652756+01:00",
+  "Seed": 12317878
+}

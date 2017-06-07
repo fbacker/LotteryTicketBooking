@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, RESULT-RAPPORT
+
+=================================
+Name: Numbers 28
+Datum: 2016-12-21 10:25:21
+Seed: 64542317
+---------------------------------
+
+Num	(Random)		Item
+01	(13 145 923)		green, mattias.jacobsson@folkspel.se, Mattias Jacobsson		
+02	(21 342 082)		red, jonas.sund@folkspel.se, Jonas Sund		
+03	(57 576 597)		pink, paula.szabo@folkspel.se, Paula Szabo		
+04	(65 954 825)		blue, andreas.branting@folkspel.se, Andreas Branting		
+05	(69 942 599)		orange, anders.wallen@folkspel.se, Anders Wallén		
+06	(72 742 581)		yellow, lisa.berge@folkspel.se, Lisa Berge		

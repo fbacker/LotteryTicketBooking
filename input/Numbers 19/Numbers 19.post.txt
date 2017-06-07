@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 19
+Datum: 2016-12-21 10:24:58
+Seed: 31248745
+---------------------------------
+
+Num	(Random)		Item
+3	 (1 553 957)		green, hans.sahlin@folkspel.se, Hans Sahlin
+2	 (6 538 239)		blue, neil.burcher@folkspel.se, Neil Burcher
+1	(16 008 307)		red, klas.moberg@folkspel.se, Klas Moberg
+5	(83 924 373)		pink, andreas.branting@live.se, Andreas Branting
+4	(84 388 667)		yellow, eva.kape@folkspel.se, Eva Kåpe
+6	(92 749 425)		orange, johan.nilsson@folkspel.se, Johan Nilsson

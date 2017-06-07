@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 19
+Datum: 2016-12-21 10:24:58
+---------------------------------
+
+1	green, hans.sahlin@folkspel.se, Hans Sahlin		
+2	blue, neil.burcher@folkspel.se, Neil Burcher		
+3	red, klas.moberg@folkspel.se, Klas Moberg		
+4	pink, andreas.branting@live.se, Andreas Branting		
+5	yellow, eva.kape@folkspel.se, Eva Kåpe		
+6	orange, johan.nilsson@folkspel.se, Johan Nilsson		

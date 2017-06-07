@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, RESULT-RAPPORT
+
+=================================
+Name: Numbers 2
+Datum: 2016-12-21 10:24:58
+Seed: 32147874
+---------------------------------
+
+Num	(Random)		Item
+01	(24 366 987)		green, mikael.kjellstrom@folkspel.se, Mikael Kjellström		
+02	(39 893 486)		blue, tobias.sjolund@folkspel.se, Tobias Sjölund		
+03	(46 290 524)		pink, jorgen.bostrom@folkspel.se, Jörgen Boström		
+04	(68 422 531)		orange, erik.zetterstrom@folkspel.se, Erik Zetterström		
+05	(77 498 667)		yellow, fredrick.backer@folkspel.se, Fredrick Bäcker		
+06	(77 617 355)		red, pia.gustafsson@folkspel.se, Pia Gustafsson		

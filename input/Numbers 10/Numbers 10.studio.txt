@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 10
+Datum: 2016-12-21 10:24:35
+---------------------------------
+
+1	orange, dick.kullendal@folkspel.se, Dick Kullendal		
+2	red, jessica.hultgren@folkspel.se, Jessica Hultgren		
+3	pink, sprangers.william@gmail.com, William Sprangers		
+4	blue, fredrik.eriksson@folkspel.se, Fredrik Eriksson		
+5	green, victor.strom@folkspel.se, Victor Ström		
+6	yellow, helene.andersson@folkspel.se, Helene Andersson		

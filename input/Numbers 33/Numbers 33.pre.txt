@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, PRE-RAPPORT
+
+=================================
+Name: Numbers 33
+Datum: 2016-12-21 10:25:35
+Seed: 65546446
+---------------------------------
+
+Num	(Random)		Item
+1	(16 614 830)		yellow, carina.persson@folkspel.se, Carina Persson
+2	 (5 624 651)		red, henrik.lindroth@folkspel.se, Henrik Lindroth
+3	(21 249 749)		green, jonas.sund@folkspel.se, Jonas Sund
+4	(92 569 349)		blue, chatrine.rodal@folkspel.se, Chatrine Rodal
+5	(42 243 917)		pink, marcus.angelin@folkspel.se, Marcus Angelin
+6	(33 750 557)		orange, victor.strom@folkspel.se, Victor Ström

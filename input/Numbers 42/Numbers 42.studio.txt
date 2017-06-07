@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 42
+Datum: 2016-12-21 10:26:01
+---------------------------------
+
+1	green, jessica.ehrnbring@folkspel.se, Jessica Ehrnbring		
+2	blue, victor.strom@folkspel.se, Victor Ström		
+3	yellow, eva.kape@folkspel.se, Eva Kåpe		
+4	orange, paula.szabo@folkspel.se, Paula Szabo		
+5	pink, johan.lindqvist@folkspel.se, Johan Lindqvist		
+6	red, torbjorn.bergman@folkspel.se, Torbjörn Bergman		

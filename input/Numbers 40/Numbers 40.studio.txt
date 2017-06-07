@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 40
+Datum: 2016-12-21 10:25:56
+---------------------------------
+
+1	yellow, corneliaa.s@hotmail.com, Cornelia Sarafian		
+2	orange, johan.lindqvist@folkspel.se, Johan Lindqvist		
+3	pink, markus.qvist@folkspel.se, Markus Qvist		
+4	red, torbjorn.bergman@folkspel.se, Torbjörn Bergman		
+5	green, henrik.lindroth@folkspel.se, Henrik Lindroth		
+6	blue, anders.eldh@folkspel.se, Anders Eldh		

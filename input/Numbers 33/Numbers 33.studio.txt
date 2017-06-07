@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 33
+Datum: 2016-12-21 10:25:35
+---------------------------------
+
+1	red, henrik.lindroth@folkspel.se, Henrik Lindroth		
+2	yellow, carina.persson@folkspel.se, Carina Persson		
+3	green, jonas.sund@folkspel.se, Jonas Sund		
+4	orange, victor.strom@folkspel.se, Victor Ström		
+5	pink, marcus.angelin@folkspel.se, Marcus Angelin		
+6	blue, chatrine.rodal@folkspel.se, Chatrine Rodal		

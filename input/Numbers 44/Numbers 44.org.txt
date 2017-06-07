@@ -1,0 +1,6 @@
+red, thomas.wedin@folkspel.se, Thomas Wedin
+yellow, fredrick.backer@folkspel.se, Fredrick Bäcker
+blue, annika.johanson@folkspel.se, Annika Johanson
+green, fredrik.eriksson@folkspel.se, Fredrik Eriksson
+pink, maria.lemback@folkspel.se, Maria Lembäck
+orange, jonathan.n.carlsson@gmail.com, Jonathan Carlsson

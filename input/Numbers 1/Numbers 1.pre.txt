@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, PRE-RAPPORT
+
+=================================
+Name: Numbers 1
+Datum: 2016-12-21 10:24:30
+Seed: 54647754
+---------------------------------
+
+Num	(Random)		Item
+1	(49 597 880)		red, helene.andersson@folkspel.se, Helene Andersson
+2	(76 538 468)		green, anders.wallen@folkspel.se, Anders Wallén
+3	(91 242 229)		blue, jessica.ehrnbring@folkspel.se, Jessica Ehrnbring
+4	(91 702 050)		yellow, mikael.kjellstrom@folkspel.se, Mikael Kjellström
+5	(49 316 178)		orange, jorgen.bostrom@folkspel.se, Jörgen Boström
+6	(19 414 912)		pink, paula.szabo@folkspel.se, Paula Szabo

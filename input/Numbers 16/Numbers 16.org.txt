@@ -1,0 +1,6 @@
+red, jens.mikkelsen@folkspel.se, Jens Mikkelsen
+blue, veronica.oxhagen@folkspel.se, Veronica Thoren Oxhagen
+green, emelie.courleux@folkspel.se, Emelie Courleux
+yellow, niclas.carlsson@folkspel.se, Niclas Carlsson
+pink, karin.hallberg@folkspel.se, Karin Hallberg
+orange, johan.nilsson@folkspel.se, Johan Nilsson

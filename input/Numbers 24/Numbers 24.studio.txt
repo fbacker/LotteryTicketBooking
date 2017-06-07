@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 24
+Datum: 2016-12-21 10:25:13
+---------------------------------
+
+1	red, mattias.jacobsson@folkspel.se, Mattias Jacobsson		
+2	orange, karin.hallberg@folkspel.se, Karin Hallberg		
+3	pink, isabelle.peterson@hotmail.se, Isabelle Trysberg		
+4	green, veronica.oxhagen@folkspel.se, Veronica Thoren Oxhagen		
+5	blue, peter.zamola@folkspel.se, Peter Zamola		
+6	yellow, mia.hjerpe@gmail.com, Mia Hjerpe		

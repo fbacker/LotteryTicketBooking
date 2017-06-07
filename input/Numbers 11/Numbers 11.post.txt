@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 11
+Datum: 2016-12-21 10:24:38
+Seed: 6785437
+---------------------------------
+
+Num	(Random)		Item
+4	 (5 023 136)		blue, mikael.kjellstrom@folkspel.se, Mikael Kjellström
+3	(12 293 770)		yellow, annette.berntsson@folkspel.se, Annette Berntsson
+6	(29 978 205)		orange, sofia.nilsson@folkspel.se, Sofia Nilsson
+5	(42 577 937)		pink, jorgen.bostrom@folkspel.se, Jörgen Boström
+1	(58 009 319)		red, isabelle.trysberg@folkspel.se, Isabelle Trysberg
+2	(89 278 646)		green, pia.gustafsson@folkspel.se, Pia Gustafsson

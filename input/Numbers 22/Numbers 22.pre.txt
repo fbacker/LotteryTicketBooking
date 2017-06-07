@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, PRE-RAPPORT
+
+=================================
+Name: Numbers 22
+Datum: 2016-12-21 10:25:08
+Seed: 13417878
+---------------------------------
+
+Num	(Random)		Item
+1	(63 858 164)		red, erik.zetterstrom@folkspel.se, Erik Zetterström
+2	(31 527 098)		blue, eva.kape@folkspel.se, Eva Kåpe
+3	(12 642 126)		yellow, chatrine.rodal@folkspel.se, Chatrine Rodal
+4	(56 244 028)		green, johanna.jacobsson@folkspel.se, Johanna Jacobsson
+5	(59 664 534)		orange, johan.nilsson@folkspel.se, Johan Nilsson
+6	(38 610 897)		pink, markus.qvist@folkspel.se, Markus Qvist

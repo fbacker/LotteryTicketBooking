@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<OutputGameVO xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Data>
+    <DrawToolGameSortVO>
+      <Input>blue, fredrick.backer@folkspel.se, Fredrick Bäcker</Input>
+      <Addon />
+      <Number>1</Number>
+      <Random>39858921</Random>
+    </DrawToolGameSortVO>
+    <DrawToolGameSortVO>
+      <Input>green, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius</Input>
+      <Addon />
+      <Number>2</Number>
+      <Random>53177596</Random>
+    </DrawToolGameSortVO>
+    <DrawToolGameSortVO>
+      <Input>orange, birgitta.hermansson@folkspel.se, Birgitta Hermansson</Input>
+      <Addon />
+      <Number>3</Number>
+      <Random>71160721</Random>
+    </DrawToolGameSortVO>
+    <DrawToolGameSortVO>
+      <Input>pink, karin.hallberg@folkspel.se, Karin Hallberg</Input>
+      <Addon />
+      <Number>4</Number>
+      <Random>92068436</Random>
+    </DrawToolGameSortVO>
+    <DrawToolGameSortVO>
+      <Input>red, jonas.sund@folkspel.se, Jonas Sund</Input>
+      <Addon />
+      <Number>5</Number>
+      <Random>98046487</Random>
+    </DrawToolGameSortVO>
+    <DrawToolGameSortVO>
+      <Input>yellow, anders.eldh@folkspel.se, Anders Eldh</Input>
+      <Addon />
+      <Number>6</Number>
+      <Random>98999167</Random>
+    </DrawToolGameSortVO>
+  </Data>
+  <DateCreated>2016-12-21T10:26:14.6835531+01:00</DateCreated>
+  <Seed>64554789</Seed>
+</OutputGameVO>

@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, RESULT-RAPPORT
+
+=================================
+Name: Numbers 27
+Datum: 2016-12-21 10:25:20
+Seed: 32147874
+---------------------------------
+
+Num	(Random)		Item
+01	(24 366 987)		blue, calle.hellemar@folkspel.se, Calle Hellemar		
+02	(39 893 486)		red, chatrine.rodal@folkspel.se, Chatrine Rodal		
+03	(46 290 524)		orange, peter.klaesson@folkspel.se, Peter Klaesson		
+04	(68 422 531)		pink, marcus.angelin@folkspel.se, Marcus Angelin		
+05	(77 498 667)		green, annika.johanson@folkspel.se, Annika Johanson		
+06	(77 617 355)		yellow, tobias.winsnes@folkspel.se, Tobias Winsnes		

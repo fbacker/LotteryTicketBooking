@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, PRE-RAPPORT
+
+=================================
+Name: Numbers 45
+Datum: 2016-12-21 10:26:09
+Seed: 69693447
+---------------------------------
+
+Num	(Random)		Item
+1	(59 353 256)		green, eva.kape@folkspel.se, Eva Kåpe
+2	(58 598 025)		yellow, torbjorn.bergman@folkspel.se, Torbjörn Bergman
+3	 (2 006 208)		blue, niclas.carlsson@folkspel.se, Niclas Carlsson
+4	   (512 729)		red, thomas.wedin@folkspel.se, Thomas Wedin
+5	(35 822 555)		orange, marie.rehnberg@folkspel.se, Marie Rehnberg
+6	(44 795 044)		pink, neil.burcher@folkspel.se, Neil Burcher

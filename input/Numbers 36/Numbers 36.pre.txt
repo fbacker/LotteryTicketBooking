@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, PRE-RAPPORT
+
+=================================
+Name: Numbers 36
+Datum: 2016-12-21 10:25:44
+Seed: 32174777
+---------------------------------
+
+Num	(Random)		Item
+1	(50 792 239)		green, klas.moberg@folkspel.se, Klas Moberg
+2	(17 338 865)		red, annika.tunerbratt@folkspel.se, Annika Tunerbratt
+3	(46 591 413)		yellow, anders.eldh@folkspel.se, Anders Eldh
+4	(47 183 690)		blue, maria.arleback@folkspel.se, Maria Arlebäck
+5	(95 801 633)		pink, emelie.courleux@folkspel.se, Emelie Courleux
+6	(67 181 677)		orange, markus.qvist@folkspel.se, Markus Qvist

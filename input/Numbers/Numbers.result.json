@@ -1,0 +1,66 @@
+{
+  "Data": [
+    {
+      "Input": "9",
+      "Addon": "",
+      "Number": 1,
+      "Random": 6305628
+    },
+    {
+      "Input": "37",
+      "Addon": "",
+      "Number": 2,
+      "Random": 7993293
+    },
+    {
+      "Input": "25",
+      "Addon": "",
+      "Number": 3,
+      "Random": 12150462
+    },
+    {
+      "Input": "28",
+      "Addon": "",
+      "Number": 4,
+      "Random": 15014201
+    },
+    {
+      "Input": "29",
+      "Addon": "",
+      "Number": 5,
+      "Random": 19168943
+    },
+    {
+      "Input": "35",
+      "Addon": "",
+      "Number": 6,
+      "Random": 22679038
+    },
+    {
+      "Input": "22",
+      "Addon": "",
+      "Number": 7,
+      "Random": 27638683
+    },
+    {
+      "Input": "2",
+      "Addon": "",
+      "Number": 8,
+      "Random": 27961288
+    },
+    {
+      "Input": "45",
+      "Addon": "",
+      "Number": 9,
+      "Random": 28968817
+    },
+    {
+      "Input": "46",
+      "Addon": "",
+      "Number": 10,
+      "Random": 30403383
+    }
+  ],
+  "DateCreated": "2016-12-21T10:26:33.2501092+01:00",
+  "Seed": 36977544
+}

@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 42
+Datum: 2016-12-21 10:26:01
+Seed: 65478784
+---------------------------------
+
+Num	(Random)		Item
+2	(18 496 462)		green, jessica.ehrnbring@folkspel.se, Jessica Ehrnbring
+1	(37 089 184)		blue, victor.strom@folkspel.se, Victor Ström
+4	(38 902 483)		yellow, eva.kape@folkspel.se, Eva Kåpe
+5	(49 949 504)		orange, paula.szabo@folkspel.se, Paula Szabo
+6	(71 574 679)		pink, johan.lindqvist@folkspel.se, Johan Lindqvist
+3	(82 263 741)		red, torbjorn.bergman@folkspel.se, Torbjörn Bergman

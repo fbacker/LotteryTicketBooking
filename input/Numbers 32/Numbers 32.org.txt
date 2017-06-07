@@ -1,0 +1,6 @@
+red, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius
+blue, mia.hjerpe@gmail.com, Mia Hjerpe
+green, jorgen.bostrom@folkspel.se, Jörgen Boström
+yellow, thomas.wedin@folkspel.se, Thomas Wedin
+pink, marie.rehnberg@folkspel.se, Marie Rehnberg
+orange, birgitta.hermansson@folkspel.se, Birgitta Hermansson

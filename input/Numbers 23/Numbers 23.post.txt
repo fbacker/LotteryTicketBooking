@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 23
+Datum: 2016-12-21 10:25:08
+Seed: 32148787
+---------------------------------
+
+Num	(Random)		Item
+4	 (7 369 740)		yellow, pia.gustafsson@folkspel.se, Pia Gustafsson
+3	 (8 983 004)		green, emelie.courleux@folkspel.se, Emelie Courleux
+5	(15 297 816)		pink, paula.szabo@folkspel.se, Paula Szabo
+2	(59 214 141)		blue, carina.persson@folkspel.se, Carina Persson
+6	(61 636 697)		orange, isabelle.peterson@hotmail.se, Isabelle Trysberg
+1	(68 530 320)		red, emma.vikla@folkspel.se, Emma Vikla

@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 11
+Datum: 2016-12-21 10:24:38
+---------------------------------
+
+1	blue, mikael.kjellstrom@folkspel.se, Mikael Kjellström		
+2	yellow, annette.berntsson@folkspel.se, Annette Berntsson		
+3	orange, sofia.nilsson@folkspel.se, Sofia Nilsson		
+4	pink, jorgen.bostrom@folkspel.se, Jörgen Boström		
+5	red, isabelle.trysberg@folkspel.se, Isabelle Trysberg		
+6	green, pia.gustafsson@folkspel.se, Pia Gustafsson		

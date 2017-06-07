@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 8
+Datum: 2016-12-21 10:26:30
+Seed: 36544411
+---------------------------------
+
+Num	(Random)		Item
+3	(34 882 264)		red, fredrik.larsson@folkspel.se, Fredrik Larsson
+1	(59 359 305)		blue, niclas.carlsson@folkspel.se, Niclas Carlsson
+6	(63 745 209)		orange, johan.nilsson@folkspel.se, Johan Nilsson
+4	(68 762 936)		yellow, mattias.jacobsson@folkspel.se, Mattias Jacobsson
+2	(86 949 171)		green, peter.klaesson@folkspel.se, Peter Klaesson
+5	(99 665 043)		pink, paula.szabo@folkspel.se, Paula Szabo

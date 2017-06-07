@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, PRE-RAPPORT
+
+=================================
+Name: Numbers 35
+Datum: 2016-12-21 10:25:42
+Seed: 32145677
+---------------------------------
+
+Num	(Random)		Item
+1	(62 028 771)		yellow, fredrick.backer@folkspel.se, Fredrick Bäcker
+2	(78 278 919)		green, annika.johanson@folkspel.se, Annika Johanson
+3	(41 186 854)		blue, emma.vikla@folkspel.se, Emma Vikla
+4	(52 779 807)		red, lisa.berge@folkspel.se, Lisa Berge
+5	(38 975 961)		orange, pia.gustafsson@folkspel.se, Pia Gustafsson
+6	(46 373 806)		pink, johan.nilsson@folkspel.se, Johan Nilsson

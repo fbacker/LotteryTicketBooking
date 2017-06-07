@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 15
+Datum: 2016-12-21 10:24:46
+---------------------------------
+
+1	pink, nenna.molin@gmail.com, Nenna Molin		
+2	yellow, jens.mikkelsen@folkspel.se, Jens Mikkelsen		
+3	orange, pia.gustafsson@folkspel.se, Pia Gustafsson		
+4	green, nenna.molin@folkspel.se, Nenna Molin		
+5	blue, peter.zamola@folkspel.se, Peter Zamola		
+6	red, niclas.carlsson@folkspel.se, Niclas Carlsson		

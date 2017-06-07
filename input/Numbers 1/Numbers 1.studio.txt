@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 1
+Datum: 2016-12-21 10:24:30
+---------------------------------
+
+1	pink, paula.szabo@folkspel.se, Paula Szabo		
+2	orange, jorgen.bostrom@folkspel.se, Jörgen Boström		
+3	red, helene.andersson@folkspel.se, Helene Andersson		
+4	green, anders.wallen@folkspel.se, Anders Wallén		
+5	blue, jessica.ehrnbring@folkspel.se, Jessica Ehrnbring		
+6	yellow, mikael.kjellstrom@folkspel.se, Mikael Kjellström		

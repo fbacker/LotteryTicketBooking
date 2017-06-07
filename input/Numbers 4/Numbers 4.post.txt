@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 4
+Datum: 2016-12-21 10:25:52
+Seed: 4535477
+---------------------------------
+
+Num	(Random)		Item
+3	(35 897 800)		red, fredrik.eriksson@folkspel.se, Fredrik Eriksson
+5	(36 322 760)		pink, paula.szabo@folkspel.se, Paula Szabo
+6	(54 655 262)		orange, karin.hallberg@folkspel.se, Karin Hallberg
+2	(56 503 101)		green, erik.zetterstrom@folkspel.se, Erik Zetterström
+1	(67 574 764)		yellow, tobias.sjolund@folkspel.se, Tobias Sjölund
+4	(81 387 695)		blue, emma.vikla@folkspel.se, Emma Vikla

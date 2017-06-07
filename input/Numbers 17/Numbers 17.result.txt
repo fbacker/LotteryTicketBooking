@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, RESULT-RAPPORT
+
+=================================
+Name: Numbers 17
+Datum: 2016-12-21 10:24:53
+Seed: 98767411
+---------------------------------
+
+Num	(Random)		Item
+01	(34 751 407)		pink, sofia.nilsson@folkspel.se, Sofia Nilsson		
+02	(63 711 898)		blue, jessica.hultgren@folkspel.se, Jessica Hultgren		
+03	(76 757 684)		yellow, mark.nydeus@folkspel.se, Mark Nydeus		
+04	(81 498 725)		green, tobias.winsnes@folkspel.se, Tobias Winsnes		
+05	(84 120 933)		orange, andreas.branting@live.se, Andreas Branting		
+06	(88 850 691)		red, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius		

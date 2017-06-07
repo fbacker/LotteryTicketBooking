@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 9
+Datum: 2016-12-21 10:26:32
+---------------------------------
+
+1	yellow, annette.berntsson@folkspel.se, Annette  Berntsson		
+2	pink, erik.zetterstrom@folkspel.se, Erik Zetterström		
+3	red, maria.arleback@folkspel.se, Maria Arlebäck		
+4	blue, mans.billing@folkspel.se, Måns Billing		
+5	orange, marie.rehnberg@folkspel.se, Marie Rehnberg		
+6	green, mathias.skoglund@folkspel.se, Mathias Skoglund		

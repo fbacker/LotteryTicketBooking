@@ -1,0 +1,6 @@
+blue, niclas.carlsson@folkspel.se, Niclas Carlsson
+green, peter.klaesson@folkspel.se, Peter Klaesson
+red, fredrik.larsson@folkspel.se, Fredrik Larsson
+yellow, mattias.jacobsson@folkspel.se, Mattias Jacobsson
+pink, paula.szabo@folkspel.se, Paula Szabo
+orange, johan.nilsson@folkspel.se, Johan Nilsson

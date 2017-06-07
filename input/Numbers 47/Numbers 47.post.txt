@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 47
+Datum: 2016-12-21 10:26:14
+Seed: 78963344
+---------------------------------
+
+Num	(Random)		Item
+2	(27 636 824)		blue, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius
+3	(44 102 456)		green, annika.tunerbratt@folkspel.se, Annika Tunerbratt
+1	(48 390 945)		red, fredrick.backer@folkspel.se, Fredrick Bäcker
+5	(50 903 441)		orange, isabelle.peterson@hotmail.se, Isabelle Trysberg
+6	(69 403 298)		pink, johan.lindqvist@folkspel.se, Johan Lindqvist
+4	(99 920 737)		yellow, maria.arleback@folkspel.se, Maria Arlebäck

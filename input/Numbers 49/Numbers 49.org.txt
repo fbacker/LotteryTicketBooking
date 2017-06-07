@@ -1,0 +1,6 @@
+green, torbjorn.bergman@folkspel.se, Torbjörn Bergman
+red, veronica.oxhagen@folkspel.se, Veronica Thoren Oxhagen
+yellow, mattias.jacobsson@folkspel.se, Mattias Jacobsson
+blue, eva.kape@folkspel.se, Eva Kåpe
+orange, paula.szabo@folkspel.se, Paula Szabo
+pink, johan.lindqvist@folkspel.se, Johan Lindqvist

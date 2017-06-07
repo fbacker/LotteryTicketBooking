@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 37
+Datum: 2016-12-21 10:25:46
+---------------------------------
+
+1	blue, isabelle.trysberg@folkspel.se, Isabelle Trysberg		
+2	orange, carina.persson@folkspel.se, Carina Persson		
+3	pink, erik.zetterstrom@folkspel.se, Erik Zetterström		
+4	red, andreas.branting@folkspel.se, Andreas Branting		
+5	yellow, tobias.winsnes@folkspel.se, Tobias Winsnes		
+6	green, mattias.jacobsson@folkspel.se, Mattias Jacobsson		

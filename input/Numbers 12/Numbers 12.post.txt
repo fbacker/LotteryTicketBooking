@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 12
+Datum: 2016-12-21 10:24:38
+Seed: 78654254
+---------------------------------
+
+Num	(Random)		Item
+3	 (4 580 266)		yellow, mikael.kjellstrom@folkspel.se, Mikael Kjellström
+5	(17 487 428)		pink, mans.billing@folkspel.se, Måns Billing
+6	(19 553 373)		orange, johan.nilsson@folkspel.se, Johan Nilsson
+4	(21 772 686)		blue, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius
+2	(23 533 715)		red, annette.berntsson@folkspel.se, Annette Berntsson
+1	(81 866 883)		green, chatrine.rodal@folkspel.se, Chatrine Rodal

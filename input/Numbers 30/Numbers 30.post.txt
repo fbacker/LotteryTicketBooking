@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 30
+Datum: 2016-12-21 10:25:30
+Seed: 23148785
+---------------------------------
+
+Num	(Random)		Item
+5	(12 734 674)		pink, erik.zetterstrom@folkspel.se, Erik Zetterström
+3	(28 052 765)		red, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius
+4	(31 564 823)		yellow, johanna.jacobsson@folkspel.se, Johanna Jacobsson
+1	(43 948 005)		blue, torbjorn.bergman@folkspel.se, Torbjörn Bergman
+6	(54 733 212)		orange, anders.wallen@folkspel.se, Anders Wallén
+2	(95 793 139)		green, niclas.carlsson@folkspel.se, Niclas Carlsson

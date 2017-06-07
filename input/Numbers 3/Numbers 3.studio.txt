@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 3
+Datum: 2016-12-21 10:25:27
+---------------------------------
+
+1	red, mattias.jacobsson@folkspel.se, Mattias Jacobsson		
+2	blue, carina.almquist@folkspel.se, Carina Almquist		
+3	pink, erik.zetterstrom@folkspel.se, Erik Zetterström		
+4	green, jonas.sund@folkspel.se, Jonas Sund		
+5	orange, dick.kullendal@folkspel.se, Dick Kullendal		
+6	yellow, veronica.oxhagen@folkspel.se, Veronica Thoren Oxhagen		

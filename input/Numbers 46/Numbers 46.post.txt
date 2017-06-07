@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 46
+Datum: 2016-12-21 10:26:11
+Seed: 36447789
+---------------------------------
+
+Num	(Random)		Item
+2	 (7 273 195)		red, emma.vikla@folkspel.se, Emma Vikla
+1	(19 990 637)		blue, oskar.sahlin@folkspel.se, Oskar Sahlin
+3	(22 500 503)		green, chatrine.rodal@folkspel.se, Chatrine Rodal
+6	(40 754 522)		orange, jonathan.n.carlsson@gmail.com, Jonathan Carlsson
+5	(44 222 117)		pink, carina.persson@folkspel.se, Carina Persson
+4	(88 854 180)		yellow, johanna.jacobsson@folkspel.se, Johanna Jacobsson

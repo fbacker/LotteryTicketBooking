@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 26
+Datum: 2016-12-21 10:25:18
+---------------------------------
+
+1	red, oskar.sahlin@folkspel.se, Oskar Sahlin		
+2	orange, johan.nilsson@folkspel.se, Johan Nilsson		
+3	yellow, torbjorn.bergman@folkspel.se, Torbjörn Bergman		
+4	pink, emelie.courleux@folkspel.se, Emelie Courleux		
+5	green, emma.vikla@folkspel.se, Emma Vikla		
+6	blue, annika.johanson@folkspel.se, Annika Johanson		

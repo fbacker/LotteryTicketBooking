@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 9
+Datum: 2016-12-21 10:26:32
+Seed: 69972425
+---------------------------------
+
+Num	(Random)		Item
+4	 (8 973 266)		yellow, annette.berntsson@folkspel.se, Annette  Berntsson
+6	(26 589 391)		pink, erik.zetterstrom@folkspel.se, Erik Zetterström
+1	(45 547 442)		red, maria.arleback@folkspel.se, Maria Arlebäck
+2	(49 268 657)		blue, mans.billing@folkspel.se, Måns Billing
+5	(68 990 486)		orange, marie.rehnberg@folkspel.se, Marie Rehnberg
+3	(78 831 961)		green, mathias.skoglund@folkspel.se, Mathias Skoglund

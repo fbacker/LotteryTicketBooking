@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, RESULT-RAPPORT
+
+=================================
+Name: Numbers 44
+Datum: 2016-12-21 10:26:06
+Seed: 34578996
+---------------------------------
+
+Num	(Random)		Item
+01	(21 583 329)		pink, maria.lemback@folkspel.se, Maria Lembäck		
+02	(22 312 608)		orange, jonathan.n.carlsson@gmail.com, Jonathan Carlsson		
+03	(37 559 406)		blue, annika.johanson@folkspel.se, Annika Johanson		
+04	(81 886 923)		yellow, fredrick.backer@folkspel.se, Fredrick Bäcker		
+05	(95 839 166)		red, thomas.wedin@folkspel.se, Thomas Wedin		
+06	(99 373 648)		green, fredrik.eriksson@folkspel.se, Fredrik Eriksson		

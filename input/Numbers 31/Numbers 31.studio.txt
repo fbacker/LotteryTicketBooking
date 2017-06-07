@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 31
+Datum: 2016-12-21 10:25:32
+---------------------------------
+
+1	yellow, jonas.sund@folkspel.se, Jonas Sund		
+2	red, jorgen.bostrom@folkspel.se, Jörgen Boström		
+3	orange, erik.zetterstrom@folkspel.se, Erik Zetterström		
+4	green, mattias.jacobsson@folkspel.se, Mattias Jacobsson		
+5	pink, marcus.angelin@folkspel.se, Marcus Angelin		
+6	blue, jens.mikkelsen@folkspel.se, Jens Mikkelsen		

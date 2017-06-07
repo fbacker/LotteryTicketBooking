@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 7
+Datum: 2016-12-21 10:26:26
+---------------------------------
+
+1	orange, erik.zetterstrom@folkspel.se, Erik Zetterström		
+2	yellow, fredrick.backer@folkspel.se, Fredrick Bäcker		
+3	pink, sofia.nilsson@folkspel.se, Sofia Nilsson		
+4	blue, amanda.nilsson@folkspel.se, Amanda Nilsson		
+5	red, marie.rehnberg@folkspel.se, Marie Rehnberg		
+6	green, annette.berntsson@folkspel.se, Annette  Berntsson		

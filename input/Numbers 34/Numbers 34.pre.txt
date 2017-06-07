@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, PRE-RAPPORT
+
+=================================
+Name: Numbers 34
+Datum: 2016-12-21 10:25:39
+Seed: 32145456
+---------------------------------
+
+Num	(Random)		Item
+1	 (7 713 917)		green, fredrick.backer@folkspel.se, Fredrick Bäcker
+2	(43 466 286)		yellow, mattias.jacobsson@folkspel.se, Mattias Jacobsson
+3	 (2 996 334)		blue, veronica.oxhagen@folkspel.se, Veronica Thoren Oxhagen
+4	(81 021 090)		red, eva.kape@folkspel.se, Eva Kåpe
+5	(61 148 821)		pink, marcus.angelin@folkspel.se, Marcus Angelin
+6	(20 474 118)		orange, birgitta.hermansson@folkspel.se, Birgitta Hermansson

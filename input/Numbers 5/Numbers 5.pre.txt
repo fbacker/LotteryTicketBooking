@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, PRE-RAPPORT
+
+=================================
+Name: Numbers 5
+Datum: 2016-12-21 10:26:21
+Seed: 36888757
+---------------------------------
+
+Num	(Random)		Item
+1	 (9 638 545)		red, nenna.molin@folkspel.se, Nenna Molin
+2	(42 681 337)		green, mathias.skoglund@folkspel.se, Mathias Skoglund
+3	(93 287 918)		yellow, hans.sahlin@folkspel.se, Hans Sahlin
+4	(15 614 430)		blue, mikael.kjellstrom@folkspel.se, Mikael Kjellström
+5	 (7 328 827)		orange, maria.lemback@folkspel.se, Maria Lembäck
+6	 (1 912 958)		pink, peter.zamola@folkspel.se, Peter Zamola

@@ -1,0 +1,3002 @@
+[
+{
+"category": "red",
+"id": "3",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 13:12:02",
+"email": "mattias.jacobsson@folkspel.se",
+"name": "Mattias Jacobsson",
+"payed": false
+},
+{
+"category": "blue",
+"id": "29",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 13:12:02",
+"email": "mattias.jacobsson@folkspel.se",
+"name": "Mattias Jacobsson",
+"payed": false
+},
+{
+"category": "blue",
+"id": "41",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 13:12:34",
+"email": "annika.tunerbratt@folkspel.se",
+"name": "Annika Tunerbratt",
+"payed": false
+},
+{
+"category": "green",
+"id": "21",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 13:12:34",
+"email": "annika.tunerbratt@folkspel.se",
+"name": "Annika Tunerbratt",
+"payed": false
+},
+{
+"category": "blue",
+"id": "2",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 13:12:31",
+"email": "tobias.sjolund@folkspel.se",
+"name": "Tobias Sjölund",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "4",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 13:12:31",
+"email": "tobias.sjolund@folkspel.se",
+"name": "Tobias Sjölund",
+"payed": false
+},
+{
+"category": "red",
+"id": "5",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 13:12:02",
+"email": "nenna.molin@folkspel.se",
+"name": "Nenna Molin",
+"payed": false
+},
+{
+"category": "green",
+"id": "15",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 13:12:02",
+"email": "nenna.molin@folkspel.se",
+"name": "Nenna Molin",
+"payed": false
+},
+{
+"category": "red",
+"id": "19",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:24",
+"email": "klas.moberg@folkspel.se",
+"name": "Klas Moberg",
+"payed": false
+},
+{
+"category": "green",
+"id": "36",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:24",
+"email": "klas.moberg@folkspel.se",
+"name": "Klas Moberg",
+"payed": false
+},
+{
+"category": "red",
+"id": "9",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:07",
+"email": "maria.arleback@folkspel.se",
+"name": "Maria Arlebäck",
+"payed": false
+},
+{
+"category": "green",
+"id": "14",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:07",
+"email": "maria.arleback@folkspel.se",
+"name": "Maria Arlebäck",
+"payed": false
+},
+{
+"category": "blue",
+"id": "9",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:50",
+"email": "mans.billing@folkspel.se",
+"name": "Måns Billing",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "14",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:50",
+"email": "mans.billing@folkspel.se",
+"name": "Måns Billing",
+"payed": false
+},
+{
+"category": "green",
+"id": "5",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:51",
+"email": "mathias.skoglund@folkspel.se",
+"name": "Mathias Skoglund",
+"payed": false
+},
+{
+"category": "green",
+"id": "9",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:51",
+"email": "mathias.skoglund@folkspel.se",
+"name": "Mathias Skoglund",
+"payed": false
+},
+{
+"category": "red",
+"id": "37",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:29",
+"email": "andreas.branting@folkspel.se",
+"name": "Andreas Branting",
+"payed": false
+},
+{
+"category": "blue",
+"id": "28",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:29",
+"email": "andreas.branting@folkspel.se",
+"name": "Andreas Branting",
+"payed": false
+},
+{
+"category": "red",
+"id": "13",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:43",
+"email": "pia.gustafsson@folkspel.se",
+"name": "Pia Gustafsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "20",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:43",
+"email": "pia.gustafsson@folkspel.se",
+"name": "Pia Gustafsson",
+"payed": false
+},
+{
+"category": "red",
+"id": "1",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:38",
+"email": "helene.andersson@folkspel.se",
+"name": "Helene Andersson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "10",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:38",
+"email": "helene.andersson@folkspel.se",
+"name": "Helene Andersson",
+"payed": false
+},
+{
+"category": "red",
+"id": "29",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:32",
+"email": "mark.nydeus@folkspel.se",
+"name": "Mark Nydeus",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "17",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:32",
+"email": "mark.nydeus@folkspel.se",
+"name": "Mark Nydeus",
+"payed": false
+},
+{
+"category": "red",
+"id": "7",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:44",
+"email": "marie.rehnberg@folkspel.se",
+"name": "Marie Rehnberg",
+"payed": false
+},
+{
+"category": "red",
+"id": "43",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:44",
+"email": "marie.rehnberg@folkspel.se",
+"name": "Marie Rehnberg",
+"payed": false
+},
+{
+"category": "blue",
+"id": "8",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:52",
+"email": "niclas.carlsson@folkspel.se",
+"name": "Niclas Carlsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "39",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:52",
+"email": "niclas.carlsson@folkspel.se",
+"name": "Niclas Carlsson",
+"payed": false
+},
+{
+"category": "blue",
+"id": "13",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:18",
+"email": "birgitta.hermansson@folkspel.se",
+"name": "Birgitta Hermansson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "21",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:18",
+"email": "birgitta.hermansson@folkspel.se",
+"name": "Birgitta Hermansson",
+"payed": false
+},
+{
+"category": "red",
+"id": "6",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:29",
+"email": "annika.johanson@folkspel.se",
+"name": "Annika Johanson",
+"payed": false
+},
+{
+"category": "blue",
+"id": "26",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:29",
+"email": "annika.johanson@folkspel.se",
+"name": "Annika Johanson",
+"payed": false
+},
+{
+"category": "red",
+"id": "22",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:10",
+"email": "erik.zetterstrom@folkspel.se",
+"name": "Erik Zetterström",
+"payed": false
+},
+{
+"category": "green",
+"id": "4",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:10",
+"email": "erik.zetterstrom@folkspel.se",
+"name": "Erik Zetterström",
+"payed": false
+},
+{
+"category": "green",
+"id": "7",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:20",
+"email": "annette.berntsson@folkspel.se",
+"name": "Annette  Berntsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "9",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:20",
+"email": "annette.berntsson@folkspel.se",
+"name": "Annette  Berntsson",
+"payed": false
+},
+{
+"category": "green",
+"id": "8",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:29",
+"email": "peter.klaesson@folkspel.se",
+"name": "Peter Klaesson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "13",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:29",
+"email": "peter.klaesson@folkspel.se",
+"name": "Peter Klaesson",
+"payed": false
+},
+{
+"category": "red",
+"id": "4",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:45",
+"email": "fredrik.eriksson@folkspel.se",
+"name": "Fredrik Eriksson",
+"payed": false
+},
+{
+"category": "blue",
+"id": "10",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:45",
+"email": "fredrik.eriksson@folkspel.se",
+"name": "Fredrik Eriksson",
+"payed": false
+},
+{
+"category": "red",
+"id": "16",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:58",
+"email": "jens.mikkelsen@folkspel.se",
+"name": "Jens Mikkelsen",
+"payed": false
+},
+{
+"category": "blue",
+"id": "21",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:58",
+"email": "jens.mikkelsen@folkspel.se",
+"name": "Jens Mikkelsen",
+"payed": false
+},
+{
+"category": "red",
+"id": "20",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:12",
+"email": "neil.burcher@folkspel.se",
+"name": "Neil Burcher",
+"payed": false
+},
+{
+"category": "blue",
+"id": "19",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:12",
+"email": "neil.burcher@folkspel.se",
+"name": "Neil Burcher",
+"payed": false
+},
+{
+"category": "red",
+"id": "21",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:19",
+"email": "karin.hallberg@folkspel.se",
+"name": "Karin Hallberg",
+"payed": false
+},
+{
+"category": "green",
+"id": "6",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:19",
+"email": "karin.hallberg@folkspel.se",
+"name": "Karin Hallberg",
+"payed": false
+},
+{
+"category": "blue",
+"id": "25",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:30",
+"email": "berntsson.carolina@gmail.com",
+"name": "Carolina Berntsson",
+"payed": false
+},
+{
+"category": "green",
+"id": "29",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 14:12:30",
+"email": "berntsson.carolina@gmail.com",
+"name": "Carolina Berntsson",
+"payed": false
+},
+{
+"category": "red",
+"id": "27",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 16:12:22",
+"email": "chatrine.rodal@folkspel.se",
+"name": "Chatrine Rodal",
+"payed": false
+},
+{
+"category": "green",
+"id": "12",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 16:12:22",
+"email": "chatrine.rodal@folkspel.se",
+"name": "Chatrine Rodal",
+"payed": false
+},
+{
+"category": "blue",
+"id": "15",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 16:12:59",
+"email": "peter.zamola@folkspel.se",
+"name": "Peter Zamola",
+"payed": false
+},
+{
+"category": "blue",
+"id": "24",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 16:12:59",
+"email": "peter.zamola@folkspel.se",
+"name": "Peter Zamola",
+"payed": false
+},
+{
+"category": "blue",
+"id": "50",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 16:12:26",
+"email": "corneliaa.s@hotmail.com",
+"name": "Cornelia Sarafian",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "40",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 16:12:26",
+"email": "corneliaa.s@hotmail.com",
+"name": "Cornelia Sarafian",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "7",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 16:12:58",
+"email": "fredrick.backer@folkspel.se",
+"name": "Fredrick Bäcker",
+"payed": false
+},
+{
+"category": "red",
+"id": "11",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 16:12:04",
+"email": "isabelle.trysberg@folkspel.se",
+"name": "Isabelle Trysberg",
+"payed": false
+},
+{
+"category": "blue",
+"id": "37",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 16:12:04",
+"email": "isabelle.trysberg@folkspel.se",
+"name": "Isabelle Trysberg",
+"payed": false
+},
+{
+"category": "red",
+"id": "8",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 16:12:51",
+"email": "fredrik.larsson@folkspel.se",
+"name": "Fredrik Larsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "6",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 16:12:51",
+"email": "fredrik.larsson@folkspel.se",
+"name": "Fredrik Larsson",
+"payed": false
+},
+{
+"category": "blue",
+"id": "22",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 17:12:54",
+"email": "eva.kape@folkspel.se",
+"name": "Eva Kåpe",
+"payed": false
+},
+{
+"category": "green",
+"id": "45",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 17:12:54",
+"email": "eva.kape@folkspel.se",
+"name": "Eva Kåpe",
+"payed": false
+},
+{
+"category": "blue",
+"id": "6",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 17:12:28",
+"email": "fredrick.backer@folkspel.se",
+"name": "Fredrick Bäcker",
+"payed": false
+},
+{
+"category": "green",
+"id": "49",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 20:12:05",
+"email": "torbjorn.bergman@folkspel.se",
+"name": "Torbjörn Bergman",
+"payed": false
+},
+{
+"category": "green",
+"id": "50",
+"type": "book",
+"checked": true,
+"date": "2016-12-01 20:12:05",
+"email": "torbjorn.bergman@folkspel.se",
+"name": "Torbjörn Bergman",
+"payed": false
+},
+{
+"category": "red",
+"id": "14",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 08:12:17",
+"email": "anders.wallen@folkspel.se",
+"name": "Anders Wallén",
+"payed": false
+},
+{
+"category": "green",
+"id": "1",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 08:12:17",
+"email": "anders.wallen@folkspel.se",
+"name": "Anders Wallén",
+"payed": false
+},
+{
+"category": "red",
+"id": "28",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 08:12:07",
+"email": "jonas.sund@folkspel.se",
+"name": "Jonas Sund",
+"payed": false
+},
+{
+"category": "green",
+"id": "3",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 08:12:07",
+"email": "jonas.sund@folkspel.se",
+"name": "Jonas Sund",
+"payed": false
+},
+{
+"category": "blue",
+"id": "7",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 08:12:43",
+"email": "amanda.nilsson@folkspel.se",
+"name": "Amanda Nilsson",
+"payed": false
+},
+{
+"category": "green",
+"id": "25",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 08:12:43",
+"email": "amanda.nilsson@folkspel.se",
+"name": "Amanda Nilsson",
+"payed": false
+},
+{
+"category": "red",
+"id": "23",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 08:12:05",
+"email": "emma.vikla@folkspel.se",
+"name": "Emma Vikla",
+"payed": false
+},
+{
+"category": "blue",
+"id": "4",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 08:12:05",
+"email": "emma.vikla@folkspel.se",
+"name": "Emma Vikla",
+"payed": false
+},
+{
+"category": "blue",
+"id": "3",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 09:12:28",
+"email": "carina.almquist@folkspel.se",
+"name": "Carina Almquist",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "25",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 09:12:28",
+"email": "carina.almquist@folkspel.se",
+"name": "Carina Almquist",
+"payed": false
+},
+{
+"category": "red",
+"id": "10",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 09:12:58",
+"email": "jessica.hultgren@folkspel.se",
+"name": "Jessica Hultgren",
+"payed": false
+},
+{
+"category": "blue",
+"id": "17",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 09:12:58",
+"email": "jessica.hultgren@folkspel.se",
+"name": "Jessica Hultgren",
+"payed": false
+},
+{
+"category": "red",
+"id": "44",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 16:12:02",
+"email": "thomas.wedin@folkspel.se",
+"name": "Thomas Wedin",
+"payed": false
+},
+{
+"category": "red",
+"id": "50",
+"type": "book",
+"checked": true,
+"date": "2016-12-02 16:12:02",
+"email": "thomas.wedin@folkspel.se",
+"name": "Thomas Wedin",
+"payed": false
+},
+{
+"category": "red",
+"id": "49",
+"type": "book",
+"checked": true,
+"date": "2016-12-05 09:12:57",
+"email": "veronica.oxhagen@folkspel.se",
+"name": "Veronica Thoren Oxhagen",
+"payed": false
+},
+{
+"category": "blue",
+"id": "16",
+"type": "book",
+"checked": true,
+"date": "2016-12-05 09:12:57",
+"email": "veronica.oxhagen@folkspel.se",
+"name": "Veronica Thoren Oxhagen",
+"payed": false
+},
+{
+"category": "blue",
+"id": "23",
+"type": "book",
+"checked": true,
+"date": "2016-12-05 11:12:55",
+"email": "carina.persson@folkspel.se",
+"name": "Carina Persson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "33",
+"type": "book",
+"checked": true,
+"date": "2016-12-05 11:12:55",
+"email": "carina.persson@folkspel.se",
+"name": "Carina Persson",
+"payed": false
+},
+{
+"category": "green",
+"id": "19",
+"type": "book",
+"checked": true,
+"date": "2016-12-05 12:12:53",
+"email": "hans.sahlin@folkspel.se",
+"name": "Hans Sahlin",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "5",
+"type": "book",
+"checked": true,
+"date": "2016-12-05 12:12:53",
+"email": "hans.sahlin@folkspel.se",
+"name": "Hans Sahlin",
+"payed": false
+},
+{
+"category": "red",
+"id": "26",
+"type": "book",
+"checked": true,
+"date": "2016-12-05 12:12:06",
+"email": "oskar.sahlin@folkspel.se",
+"name": "Oskar Sahlin",
+"payed": false
+},
+{
+"category": "blue",
+"id": "46",
+"type": "book",
+"checked": true,
+"date": "2016-12-05 12:12:06",
+"email": "oskar.sahlin@folkspel.se",
+"name": "Oskar Sahlin",
+"payed": false
+},
+{
+"category": "red",
+"id": "33",
+"type": "book",
+"checked": true,
+"date": "2016-12-05 14:12:17",
+"email": "henrik.lindroth@folkspel.se",
+"name": "Henrik Lindroth",
+"payed": false
+},
+{
+"category": "green",
+"id": "40",
+"type": "book",
+"checked": true,
+"date": "2016-12-05 14:12:17",
+"email": "henrik.lindroth@folkspel.se",
+"name": "Henrik Lindroth",
+"payed": false
+},
+{
+"category": "blue",
+"id": "42",
+"type": "book",
+"checked": true,
+"date": "2016-12-06 15:12:59",
+"email": "victor.strom@folkspel.se",
+"name": "Victor Ström",
+"payed": false
+},
+{
+"category": "green",
+"id": "10",
+"type": "book",
+"checked": true,
+"date": "2016-12-06 15:12:59",
+"email": "victor.strom@folkspel.se",
+"name": "Victor Ström",
+"payed": false
+},
+{
+"category": "blue",
+"id": "1",
+"type": "book",
+"checked": true,
+"date": "2016-12-06 15:12:04",
+"email": "jessica.ehrnbring@folkspel.se",
+"name": "Jessica Ehrnbring",
+"payed": false
+},
+{
+"category": "green",
+"id": "42",
+"type": "book",
+"checked": true,
+"date": "2016-12-06 15:12:04",
+"email": "jessica.ehrnbring@folkspel.se",
+"name": "Jessica Ehrnbring",
+"payed": false
+},
+{
+"category": "green",
+"id": "16",
+"type": "book",
+"checked": true,
+"date": "2016-12-06 17:12:19",
+"email": "emelie.courleux@folkspel.se",
+"name": "Emelie Courleux",
+"payed": false
+},
+{
+"category": "green",
+"id": "23",
+"type": "book",
+"checked": true,
+"date": "2016-12-06 17:12:19",
+"email": "emelie.courleux@folkspel.se",
+"name": "Emelie Courleux",
+"payed": false
+},
+{
+"category": "red",
+"id": "47",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:59",
+"email": "fredrick.backer@folkspel.se",
+"name": "Fredrick Bäcker",
+"payed": false
+},
+{
+"category": "blue",
+"id": "14",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:59",
+"email": "fredrick.backer@folkspel.se",
+"name": "Fredrick Bäcker",
+"payed": false
+},
+{
+"category": "blue",
+"id": "48",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:59",
+"email": "fredrick.backer@folkspel.se",
+"name": "Fredrick Bäcker",
+"payed": false
+},
+{
+"category": "green",
+"id": "34",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:59",
+"email": "fredrick.backer@folkspel.se",
+"name": "Fredrick Bäcker",
+"payed": false
+},
+{
+"category": "green",
+"id": "43",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:59",
+"email": "fredrick.backer@folkspel.se",
+"name": "Fredrick Bäcker",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "2",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:59",
+"email": "fredrick.backer@folkspel.se",
+"name": "Fredrick Bäcker",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "35",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:59",
+"email": "fredrick.backer@folkspel.se",
+"name": "Fredrick Bäcker",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "44",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:59",
+"email": "fredrick.backer@folkspel.se",
+"name": "Fredrick Bäcker",
+"payed": false
+},
+{
+"category": "red",
+"id": "25",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:49",
+"email": "jens.mikkelsen@folkspel.se",
+"name": "Jens Mikkelsen",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "15",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:49",
+"email": "jens.mikkelsen@folkspel.se",
+"name": "Jens Mikkelsen",
+"payed": false
+},
+{
+"category": "blue",
+"id": "31",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:49",
+"email": "jens.mikkelsen@folkspel.se",
+"name": "Jens Mikkelsen",
+"payed": false
+},
+{
+"category": "green",
+"id": "41",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 09:12:49",
+"email": "jens.mikkelsen@folkspel.se",
+"name": "Jens Mikkelsen",
+"payed": false
+},
+{
+"category": "red",
+"id": "40",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:08",
+"email": "torbjorn.bergman@folkspel.se",
+"name": "Torbjörn Bergman",
+"payed": false
+},
+{
+"category": "red",
+"id": "42",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:08",
+"email": "torbjorn.bergman@folkspel.se",
+"name": "Torbjörn Bergman",
+"payed": false
+},
+{
+"category": "blue",
+"id": "30",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:08",
+"email": "torbjorn.bergman@folkspel.se",
+"name": "Torbjörn Bergman",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "26",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:08",
+"email": "torbjorn.bergman@folkspel.se",
+"name": "Torbjörn Bergman",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "45",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:08",
+"email": "torbjorn.bergman@folkspel.se",
+"name": "Torbjörn Bergman",
+"payed": false
+},
+{
+"category": "red",
+"id": "24",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:03",
+"email": "mattias.jacobsson@folkspel.se",
+"name": "Mattias Jacobsson",
+"payed": false
+},
+{
+"category": "blue",
+"id": "43",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:03",
+"email": "mattias.jacobsson@folkspel.se",
+"name": "Mattias Jacobsson",
+"payed": false
+},
+{
+"category": "green",
+"id": "31",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:03",
+"email": "mattias.jacobsson@folkspel.se",
+"name": "Mattias Jacobsson",
+"payed": false
+},
+{
+"category": "green",
+"id": "37",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:03",
+"email": "mattias.jacobsson@folkspel.se",
+"name": "Mattias Jacobsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "8",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:03",
+"email": "mattias.jacobsson@folkspel.se",
+"name": "Mattias Jacobsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "34",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:03",
+"email": "mattias.jacobsson@folkspel.se",
+"name": "Mattias Jacobsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "49",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:03",
+"email": "mattias.jacobsson@folkspel.se",
+"name": "Mattias Jacobsson",
+"payed": false
+},
+{
+"category": "red",
+"id": "15",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:14",
+"email": "niclas.carlsson@folkspel.se",
+"name": "Niclas Carlsson",
+"payed": false
+},
+{
+"category": "blue",
+"id": "45",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:14",
+"email": "niclas.carlsson@folkspel.se",
+"name": "Niclas Carlsson",
+"payed": false
+},
+{
+"category": "green",
+"id": "30",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:14",
+"email": "niclas.carlsson@folkspel.se",
+"name": "Niclas Carlsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "16",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:14",
+"email": "niclas.carlsson@folkspel.se",
+"name": "Niclas Carlsson",
+"payed": false
+},
+{
+"category": "green",
+"id": "28",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 10:12:57",
+"email": "mattias.jacobsson@folkspel.se",
+"name": "Mattias Jacobsson",
+"payed": false
+},
+{
+"category": "red",
+"id": "48",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:54",
+"email": "jonas.sund@folkspel.se",
+"name": "Jonas Sund",
+"payed": false
+},
+{
+"category": "green",
+"id": "33",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:54",
+"email": "jonas.sund@folkspel.se",
+"name": "Jonas Sund",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "31",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:54",
+"email": "jonas.sund@folkspel.se",
+"name": "Jonas Sund",
+"payed": false
+},
+{
+"category": "red",
+"id": "39",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:10",
+"email": "veronica.oxhagen@folkspel.se",
+"name": "Veronica Thoren Oxhagen",
+"payed": false
+},
+{
+"category": "blue",
+"id": "34",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:10",
+"email": "veronica.oxhagen@folkspel.se",
+"name": "Veronica Thoren Oxhagen",
+"payed": false
+},
+{
+"category": "green",
+"id": "24",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:10",
+"email": "veronica.oxhagen@folkspel.se",
+"name": "Veronica Thoren Oxhagen",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "3",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:10",
+"email": "veronica.oxhagen@folkspel.se",
+"name": "Veronica Thoren Oxhagen",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "29",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:10",
+"email": "veronica.oxhagen@folkspel.se",
+"name": "Veronica Thoren Oxhagen",
+"payed": false
+},
+{
+"category": "red",
+"id": "2",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:12",
+"email": "pia.gustafsson@folkspel.se",
+"name": "Pia Gustafsson",
+"payed": false
+},
+{
+"category": "green",
+"id": "11",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:12",
+"email": "pia.gustafsson@folkspel.se",
+"name": "Pia Gustafsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "23",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:12",
+"email": "pia.gustafsson@folkspel.se",
+"name": "Pia Gustafsson",
+"payed": false
+},
+{
+"category": "red",
+"id": "12",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:17",
+"email": "annette.berntsson@folkspel.se",
+"name": "Annette Berntsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "11",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:17",
+"email": "annette.berntsson@folkspel.se",
+"name": "Annette Berntsson",
+"payed": false
+},
+{
+"category": "blue",
+"id": "44",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:20",
+"email": "annika.johanson@folkspel.se",
+"name": "Annika Johanson",
+"payed": false
+},
+{
+"category": "green",
+"id": "27",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:20",
+"email": "annika.johanson@folkspel.se",
+"name": "Annika Johanson",
+"payed": false
+},
+{
+"category": "green",
+"id": "35",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:20",
+"email": "annika.johanson@folkspel.se",
+"name": "Annika Johanson",
+"payed": false
+},
+{
+"category": "blue",
+"id": "5",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:29",
+"email": "mikael.kjellstrom@folkspel.se",
+"name": "Mikael Kjellström",
+"payed": false
+},
+{
+"category": "blue",
+"id": "11",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:29",
+"email": "mikael.kjellstrom@folkspel.se",
+"name": "Mikael Kjellström",
+"payed": false
+},
+{
+"category": "green",
+"id": "2",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:29",
+"email": "mikael.kjellstrom@folkspel.se",
+"name": "Mikael Kjellström",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "1",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:29",
+"email": "mikael.kjellstrom@folkspel.se",
+"name": "Mikael Kjellström",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "12",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:29",
+"email": "mikael.kjellstrom@folkspel.se",
+"name": "Mikael Kjellström",
+"payed": false
+},
+{
+"category": "red",
+"id": "17",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:47",
+"email": "ann-charlotte.gregorius@folkspel.se",
+"name": "Ann-charlotte Gregorius",
+"payed": false
+},
+{
+"category": "red",
+"id": "30",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:47",
+"email": "ann-charlotte.gregorius@folkspel.se",
+"name": "Ann-charlotte Gregorius",
+"payed": false
+},
+{
+"category": "red",
+"id": "32",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:47",
+"email": "ann-charlotte.gregorius@folkspel.se",
+"name": "Ann-charlotte Gregorius",
+"payed": false
+},
+{
+"category": "green",
+"id": "39",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:47",
+"email": "ann-charlotte.gregorius@folkspel.se",
+"name": "Ann-charlotte Gregorius",
+"payed": false
+},
+{
+"category": "green",
+"id": "48",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:47",
+"email": "ann-charlotte.gregorius@folkspel.se",
+"name": "Ann-charlotte Gregorius",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "41",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:47",
+"email": "ann-charlotte.gregorius@folkspel.se",
+"name": "Ann-charlotte Gregorius",
+"payed": false
+},
+{
+"category": "red",
+"id": "46",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:59",
+"email": "emma.vikla@folkspel.se",
+"name": "Emma Vikla",
+"payed": false
+},
+{
+"category": "blue",
+"id": "35",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:59",
+"email": "emma.vikla@folkspel.se",
+"name": "Emma Vikla",
+"payed": false
+},
+{
+"category": "green",
+"id": "26",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:59",
+"email": "emma.vikla@folkspel.se",
+"name": "Emma Vikla",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "50",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:59",
+"email": "emma.vikla@folkspel.se",
+"name": "Emma Vikla",
+"payed": false
+},
+{
+"category": "green",
+"id": "44",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:19",
+"email": "fredrik.eriksson@folkspel.se",
+"name": "Fredrik Eriksson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "38",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:19",
+"email": "fredrik.eriksson@folkspel.se",
+"name": "Fredrik Eriksson",
+"payed": false
+},
+{
+"category": "blue",
+"id": "12",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:41",
+"email": "ann-charlotte.gregorius@folkspel.se",
+"name": "Ann-charlotte Gregorius",
+"payed": false
+},
+{
+"category": "blue",
+"id": "20",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:41",
+"email": "ann-charlotte.gregorius@folkspel.se",
+"name": "Ann-charlotte Gregorius",
+"payed": false
+},
+{
+"category": "blue",
+"id": "47",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:41",
+"email": "ann-charlotte.gregorius@folkspel.se",
+"name": "Ann-charlotte Gregorius",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "43",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:41",
+"email": "ann-charlotte.gregorius@folkspel.se",
+"name": "Ann-charlotte Gregorius",
+"payed": false
+},
+{
+"category": "red",
+"id": "36",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:48",
+"email": "annika.tunerbratt@folkspel.se",
+"name": "Annika Tunerbratt",
+"payed": false
+},
+{
+"category": "green",
+"id": "47",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:48",
+"email": "annika.tunerbratt@folkspel.se",
+"name": "Annika Tunerbratt",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "18",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:48",
+"email": "annika.tunerbratt@folkspel.se",
+"name": "Annika Tunerbratt",
+"payed": false
+},
+{
+"category": "red",
+"id": "41",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:08",
+"email": "anders.eldh@folkspel.se",
+"name": "Anders Eldh",
+"payed": false
+},
+{
+"category": "blue",
+"id": "40",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:08",
+"email": "anders.eldh@folkspel.se",
+"name": "Anders Eldh",
+"payed": false
+},
+{
+"category": "green",
+"id": "38",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:08",
+"email": "anders.eldh@folkspel.se",
+"name": "Anders Eldh",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "36",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:08",
+"email": "anders.eldh@folkspel.se",
+"name": "Anders Eldh",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "48",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:08",
+"email": "anders.eldh@folkspel.se",
+"name": "Anders Eldh",
+"payed": false
+},
+{
+"category": "red",
+"id": "38",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:15",
+"email": "tobias.winsnes@folkspel.se",
+"name": "Tobias Winsnes",
+"payed": false
+},
+{
+"category": "blue",
+"id": "39",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:15",
+"email": "tobias.winsnes@folkspel.se",
+"name": "Tobias Winsnes",
+"payed": false
+},
+{
+"category": "green",
+"id": "17",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:15",
+"email": "tobias.winsnes@folkspel.se",
+"name": "Tobias Winsnes",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "27",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:15",
+"email": "tobias.winsnes@folkspel.se",
+"name": "Tobias Winsnes",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "37",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:15",
+"email": "tobias.winsnes@folkspel.se",
+"name": "Tobias Winsnes",
+"payed": false
+},
+{
+"category": "red",
+"id": "35",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:51",
+"email": "lisa.berge@folkspel.se",
+"name": "Lisa Berge",
+"payed": false
+},
+{
+"category": "blue",
+"id": "18",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:51",
+"email": "lisa.berge@folkspel.se",
+"name": "Lisa Berge",
+"payed": false
+},
+{
+"category": "green",
+"id": "13",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:51",
+"email": "lisa.berge@folkspel.se",
+"name": "Lisa Berge",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "28",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:51",
+"email": "lisa.berge@folkspel.se",
+"name": "Lisa Berge",
+"payed": false
+},
+{
+"category": "blue",
+"id": "33",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:30",
+"email": "chatrine.rodal@folkspel.se",
+"name": "Chatrine Rodal",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "22",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:30",
+"email": "chatrine.rodal@folkspel.se",
+"name": "Chatrine Rodal",
+"payed": false
+},
+{
+"category": "green",
+"id": "46",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:47",
+"email": "chatrine.rodal@folkspel.se",
+"name": "Chatrine Rodal",
+"payed": false
+},
+{
+"category": "red",
+"id": "34",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:48",
+"email": "eva.kape@folkspel.se",
+"name": "Eva Kåpe",
+"payed": false
+},
+{
+"category": "blue",
+"id": "49",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:48",
+"email": "eva.kape@folkspel.se",
+"name": "Eva Kåpe",
+"payed": false
+},
+{
+"category": "green",
+"id": "20",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:48",
+"email": "eva.kape@folkspel.se",
+"name": "Eva Kåpe",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "19",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:48",
+"email": "eva.kape@folkspel.se",
+"name": "Eva Kåpe",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "42",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:48",
+"email": "eva.kape@folkspel.se",
+"name": "Eva Kåpe",
+"payed": false
+},
+{
+"category": "blue",
+"id": "32",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:19",
+"email": "mia.hjerpe@gmail.com",
+"name": "Mia Hjerpe",
+"payed": false
+},
+{
+"category": "green",
+"id": "18",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:19",
+"email": "mia.hjerpe@gmail.com",
+"name": "Mia Hjerpe",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "24",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:19",
+"email": "mia.hjerpe@gmail.com",
+"name": "Mia Hjerpe",
+"payed": false
+},
+{
+"category": "green",
+"id": "22",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:45",
+"email": "johanna.jacobsson@folkspel.se",
+"name": "Johanna Jacobsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "30",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:45",
+"email": "johanna.jacobsson@folkspel.se",
+"name": "Johanna Jacobsson",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "46",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:45",
+"email": "johanna.jacobsson@folkspel.se",
+"name": "Johanna Jacobsson",
+"payed": false
+},
+{
+"category": "red",
+"id": "31",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:51",
+"email": "jorgen.bostrom@folkspel.se",
+"name": "Jörgen Boström",
+"payed": false
+},
+{
+"category": "green",
+"id": "32",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:51",
+"email": "jorgen.bostrom@folkspel.se",
+"name": "Jörgen Boström",
+"payed": false
+},
+{
+"category": "red",
+"id": "45",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:17",
+"email": "thomas.wedin@folkspel.se",
+"name": "Thomas Wedin",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "32",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:17",
+"email": "thomas.wedin@folkspel.se",
+"name": "Thomas Wedin",
+"payed": false
+},
+{
+"category": "blue",
+"id": "36",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:03",
+"email": "maria.arleback@folkspel.se",
+"name": "Maria Arlebäck",
+"payed": false
+},
+{
+"category": "blue",
+"id": "38",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:03",
+"email": "maria.arleback@folkspel.se",
+"name": "Maria Arlebäck",
+"payed": false
+},
+{
+"category": "yellow",
+"id": "47",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:03",
+"email": "maria.arleback@folkspel.se",
+"name": "Maria Arlebäck",
+"payed": false
+},
+{
+"category": "red",
+"id": "18",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:46",
+"email": "calle.hellemar@folkspel.se",
+"name": "Calle Hellemar",
+"payed": false
+},
+{
+"category": "blue",
+"id": "27",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:46",
+"email": "calle.hellemar@folkspel.se",
+"name": "Calle Hellemar",
+"payed": false
+},
+{
+"category": "pink",
+"id": "11",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:55",
+"email": "jorgen.bostrom@folkspel.se",
+"name": "Jörgen Boström",
+"payed": false
+},
+{
+"category": "orange",
+"id": "1",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:55",
+"email": "jorgen.bostrom@folkspel.se",
+"name": "Jörgen Boström",
+"payed": false
+},
+{
+"category": "pink",
+"id": "13",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:02",
+"email": "maria.lemback@folkspel.se",
+"name": "Maria Lembäck",
+"payed": false
+},
+{
+"category": "pink",
+"id": "44",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:02",
+"email": "maria.lemback@folkspel.se",
+"name": "Maria Lembäck",
+"payed": false
+},
+{
+"category": "orange",
+"id": "5",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 11:12:02",
+"email": "maria.lemback@folkspel.se",
+"name": "Maria Lembäck",
+"payed": false
+},
+{
+"category": "pink",
+"id": "2",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:17",
+"email": "jorgen.bostrom@folkspel.se",
+"name": "Jörgen Boström",
+"payed": false
+},
+{
+"category": "pink",
+"id": "5",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:37",
+"email": "peter.zamola@folkspel.se",
+"name": "Peter Zamola",
+"payed": false
+},
+{
+"category": "pink",
+"id": "32",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:35",
+"email": "marie.rehnberg@folkspel.se",
+"name": "Marie Rehnberg",
+"payed": false
+},
+{
+"category": "orange",
+"id": "9",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:35",
+"email": "marie.rehnberg@folkspel.se",
+"name": "Marie Rehnberg",
+"payed": false
+},
+{
+"category": "orange",
+"id": "45",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:35",
+"email": "marie.rehnberg@folkspel.se",
+"name": "Marie Rehnberg",
+"payed": false
+},
+{
+"category": "pink",
+"id": "19",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:36",
+"email": "andreas.branting@live.se",
+"name": "Andreas Branting",
+"payed": false
+},
+{
+"category": "orange",
+"id": "17",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:36",
+"email": "andreas.branting@live.se",
+"name": "Andreas Branting",
+"payed": false
+},
+{
+"category": "pink",
+"id": "1",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:43",
+"email": "paula.szabo@folkspel.se",
+"name": "Paula Szabo",
+"payed": false
+},
+{
+"category": "pink",
+"id": "4",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:43",
+"email": "paula.szabo@folkspel.se",
+"name": "Paula Szabo",
+"payed": false
+},
+{
+"category": "pink",
+"id": "8",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:43",
+"email": "paula.szabo@folkspel.se",
+"name": "Paula Szabo",
+"payed": false
+},
+{
+"category": "pink",
+"id": "23",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:43",
+"email": "paula.szabo@folkspel.se",
+"name": "Paula Szabo",
+"payed": false
+},
+{
+"category": "pink",
+"id": "28",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:43",
+"email": "paula.szabo@folkspel.se",
+"name": "Paula Szabo",
+"payed": false
+},
+{
+"category": "orange",
+"id": "13",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:43",
+"email": "paula.szabo@folkspel.se",
+"name": "Paula Szabo",
+"payed": false
+},
+{
+"category": "orange",
+"id": "42",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:43",
+"email": "paula.szabo@folkspel.se",
+"name": "Paula Szabo",
+"payed": false
+},
+{
+"category": "orange",
+"id": "49",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:43",
+"email": "paula.szabo@folkspel.se",
+"name": "Paula Szabo",
+"payed": false
+},
+{
+"category": "pink",
+"id": "45",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:08",
+"email": "neil.burcher@folkspel.se",
+"name": "Neil Burcher",
+"payed": false
+},
+{
+"category": "orange",
+"id": "39",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:08",
+"email": "neil.burcher@folkspel.se",
+"name": "Neil Burcher",
+"payed": false
+},
+{
+"category": "pink",
+"id": "50",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:23",
+"email": "pia.gustafsson@folkspel.se",
+"name": "Pia Gustafsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "15",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:23",
+"email": "pia.gustafsson@folkspel.se",
+"name": "Pia Gustafsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "35",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:23",
+"email": "pia.gustafsson@folkspel.se",
+"name": "Pia Gustafsson",
+"payed": false
+},
+{
+"category": "pink",
+"id": "3",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:41",
+"email": "erik.zetterstrom@folkspel.se",
+"name": "Erik Zetterström",
+"payed": false
+},
+{
+"category": "pink",
+"id": "9",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:41",
+"email": "erik.zetterstrom@folkspel.se",
+"name": "Erik Zetterström",
+"payed": false
+},
+{
+"category": "pink",
+"id": "14",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:41",
+"email": "erik.zetterstrom@folkspel.se",
+"name": "Erik Zetterström",
+"payed": false
+},
+{
+"category": "pink",
+"id": "30",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:41",
+"email": "erik.zetterstrom@folkspel.se",
+"name": "Erik Zetterström",
+"payed": false
+},
+{
+"category": "pink",
+"id": "37",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:41",
+"email": "erik.zetterstrom@folkspel.se",
+"name": "Erik Zetterström",
+"payed": false
+},
+{
+"category": "orange",
+"id": "2",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:41",
+"email": "erik.zetterstrom@folkspel.se",
+"name": "Erik Zetterström",
+"payed": false
+},
+{
+"category": "orange",
+"id": "7",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:41",
+"email": "erik.zetterstrom@folkspel.se",
+"name": "Erik Zetterström",
+"payed": false
+},
+{
+"category": "orange",
+"id": "31",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 12:12:41",
+"email": "erik.zetterstrom@folkspel.se",
+"name": "Erik Zetterström",
+"payed": false
+},
+{
+"category": "pink",
+"id": "48",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 13:12:57",
+"email": "karin.hallberg@folkspel.se",
+"name": "Karin Hallberg",
+"payed": false
+},
+{
+"category": "orange",
+"id": "24",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 13:12:57",
+"email": "karin.hallberg@folkspel.se",
+"name": "Karin Hallberg",
+"payed": false
+},
+{
+"category": "pink",
+"id": "16",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 13:12:58",
+"email": "karin.hallberg@folkspel.se",
+"name": "Karin Hallberg",
+"payed": false
+},
+{
+"category": "pink",
+"id": "41",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 13:12:58",
+"email": "karin.hallberg@folkspel.se",
+"name": "Karin Hallberg",
+"payed": false
+},
+{
+"category": "orange",
+"id": "4",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 13:12:58",
+"email": "karin.hallberg@folkspel.se",
+"name": "Karin Hallberg",
+"payed": false
+},
+{
+"category": "orange",
+"id": "50",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 13:12:58",
+"email": "karin.hallberg@folkspel.se",
+"name": "Karin Hallberg",
+"payed": false
+},
+{
+"category": "pink",
+"id": "21",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 13:12:19",
+"email": "anders.wallen@folkspel.se",
+"name": "Anders Wallén",
+"payed": false
+},
+{
+"category": "orange",
+"id": "28",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 13:12:19",
+"email": "anders.wallen@folkspel.se",
+"name": "Anders Wallén",
+"payed": false
+},
+{
+"category": "orange",
+"id": "30",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 13:12:19",
+"email": "anders.wallen@folkspel.se",
+"name": "Anders Wallén",
+"payed": false
+},
+{
+"category": "pink",
+"id": "15",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 14:12:39",
+"email": "nenna.molin@gmail.com",
+"name": "Nenna Molin",
+"payed": false
+},
+{
+"category": "orange",
+"id": "25",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 14:12:39",
+"email": "nenna.molin@gmail.com",
+"name": "Nenna Molin",
+"payed": false
+},
+{
+"category": "pink",
+"id": "24",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:44",
+"email": "isabelle.peterson@hotmail.se",
+"name": "Isabelle Trysberg",
+"payed": false
+},
+{
+"category": "orange",
+"id": "23",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:44",
+"email": "isabelle.peterson@hotmail.se",
+"name": "Isabelle Trysberg",
+"payed": false
+},
+{
+"category": "orange",
+"id": "47",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:44",
+"email": "isabelle.peterson@hotmail.se",
+"name": "Isabelle Trysberg",
+"payed": false
+},
+{
+"category": "pink",
+"id": "7",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:12",
+"email": "sofia.nilsson@folkspel.se",
+"name": "Sofia Nilsson",
+"payed": false
+},
+{
+"category": "pink",
+"id": "17",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:12",
+"email": "sofia.nilsson@folkspel.se",
+"name": "Sofia Nilsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "11",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:12",
+"email": "sofia.nilsson@folkspel.se",
+"name": "Sofia Nilsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "3",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:41",
+"email": "dick.kullendal@folkspel.se",
+"name": "Dick Kullendal",
+"payed": false
+},
+{
+"category": "orange",
+"id": "10",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:41",
+"email": "dick.kullendal@folkspel.se",
+"name": "Dick Kullendal",
+"payed": false
+},
+{
+"category": "orange",
+"id": "14",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:41",
+"email": "dick.kullendal@folkspel.se",
+"name": "Dick Kullendal",
+"payed": false
+},
+{
+"category": "pink",
+"id": "10",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:22",
+"email": "sprangers.william@gmail.com",
+"name": "William Sprangers",
+"payed": false
+},
+{
+"category": "orange",
+"id": "20",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:22",
+"email": "sprangers.william@gmail.com",
+"name": "William Sprangers",
+"payed": false
+},
+{
+"category": "pink",
+"id": "26",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:13",
+"email": "emelie.courleux@folkspel.se",
+"name": "Emelie Courleux",
+"payed": false
+},
+{
+"category": "pink",
+"id": "36",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:13",
+"email": "emelie.courleux@folkspel.se",
+"name": "Emelie Courleux",
+"payed": false
+},
+{
+"category": "orange",
+"id": "6",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:13",
+"email": "emelie.courleux@folkspel.se",
+"name": "Emelie Courleux",
+"payed": false
+},
+{
+"category": "pink",
+"id": "6",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:36",
+"email": "mans.billing@folkspel.se",
+"name": "Måns Billing",
+"payed": false
+},
+{
+"category": "pink",
+"id": "12",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:36",
+"email": "mans.billing@folkspel.se",
+"name": "Måns Billing",
+"payed": false
+},
+{
+"category": "pink",
+"id": "43",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 15:12:36",
+"email": "mans.billing@folkspel.se",
+"name": "Måns Billing",
+"payed": false
+},
+{
+"category": "pink",
+"id": "42",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 16:12:22",
+"email": "johan.lindqvist@folkspel.se",
+"name": "Johan Lindqvist",
+"payed": false
+},
+{
+"category": "pink",
+"id": "47",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 16:12:22",
+"email": "johan.lindqvist@folkspel.se",
+"name": "Johan Lindqvist",
+"payed": false
+},
+{
+"category": "pink",
+"id": "49",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 16:12:22",
+"email": "johan.lindqvist@folkspel.se",
+"name": "Johan Lindqvist",
+"payed": false
+},
+{
+"category": "orange",
+"id": "21",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 16:12:22",
+"email": "johan.lindqvist@folkspel.se",
+"name": "Johan Lindqvist",
+"payed": false
+},
+{
+"category": "orange",
+"id": "40",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 16:12:22",
+"email": "johan.lindqvist@folkspel.se",
+"name": "Johan Lindqvist",
+"payed": false
+},
+{
+"category": "orange",
+"id": "41",
+"type": "book",
+"checked": true,
+"date": "2016-12-07 16:12:22",
+"email": "johan.lindqvist@folkspel.se",
+"name": "Johan Lindqvist",
+"payed": false
+},
+{
+"category": "pink",
+"id": "18",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 09:12:35",
+"email": "johan.nilsson@folkspel.se",
+"name": "Johan Nilsson",
+"payed": false
+},
+{
+"category": "pink",
+"id": "20",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 09:12:35",
+"email": "johan.nilsson@folkspel.se",
+"name": "Johan Nilsson",
+"payed": false
+},
+{
+"category": "pink",
+"id": "35",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 09:12:35",
+"email": "johan.nilsson@folkspel.se",
+"name": "Johan Nilsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "8",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 09:12:35",
+"email": "johan.nilsson@folkspel.se",
+"name": "Johan Nilsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "12",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 09:12:35",
+"email": "johan.nilsson@folkspel.se",
+"name": "Johan Nilsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "16",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 09:12:35",
+"email": "johan.nilsson@folkspel.se",
+"name": "Johan Nilsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "19",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 09:12:35",
+"email": "johan.nilsson@folkspel.se",
+"name": "Johan Nilsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "22",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 09:12:35",
+"email": "johan.nilsson@folkspel.se",
+"name": "Johan Nilsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "26",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 09:12:35",
+"email": "johan.nilsson@folkspel.se",
+"name": "Johan Nilsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "29",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 09:12:35",
+"email": "johan.nilsson@folkspel.se",
+"name": "Johan Nilsson",
+"payed": false
+},
+{
+"category": "pink",
+"id": "25",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 11:12:07",
+"email": "peter.klaesson@folkspel.se",
+"name": "Peter Klaesson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "27",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 11:12:07",
+"email": "peter.klaesson@folkspel.se",
+"name": "Peter Klaesson",
+"payed": false
+},
+{
+"category": "pink",
+"id": "39",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 11:12:05",
+"email": "chatrine.rodal@folkspel.com",
+"name": "Chatrine Rodal",
+"payed": false
+},
+{
+"category": "orange",
+"id": "18",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 11:12:05",
+"email": "chatrine.rodal@folkspel.com",
+"name": "Chatrine Rodal",
+"payed": false
+},
+{
+"category": "pink",
+"id": "40",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 13:12:50",
+"email": "markus.qvist@folkspel.se",
+"name": "Markus Qvist",
+"payed": false
+},
+{
+"category": "orange",
+"id": "36",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 13:12:50",
+"email": "markus.qvist@folkspel.se",
+"name": "Markus Qvist",
+"payed": false
+},
+{
+"category": "pink",
+"id": "22",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 13:12:26",
+"email": "markus.qvist@folkspel.se",
+"name": "Markus Qvist",
+"payed": false
+},
+{
+"category": "pink",
+"id": "27",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 14:12:37",
+"email": "marcus.angelin@folkspel.se",
+"name": "Marcus Angelin",
+"payed": false
+},
+{
+"category": "pink",
+"id": "29",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 14:12:37",
+"email": "marcus.angelin@folkspel.se",
+"name": "Marcus Angelin",
+"payed": false
+},
+{
+"category": "pink",
+"id": "31",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 14:12:37",
+"email": "marcus.angelin@folkspel.se",
+"name": "Marcus Angelin",
+"payed": false
+},
+{
+"category": "pink",
+"id": "33",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 14:12:37",
+"email": "marcus.angelin@folkspel.se",
+"name": "Marcus Angelin",
+"payed": false
+},
+{
+"category": "pink",
+"id": "34",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 14:12:37",
+"email": "marcus.angelin@folkspel.se",
+"name": "Marcus Angelin",
+"payed": false
+},
+{
+"category": "pink",
+"id": "38",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 16:12:40",
+"email": "birgitta.hermansson@folkspel.se",
+"name": "Birgitta Hermansson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "32",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 16:12:40",
+"email": "birgitta.hermansson@folkspel.se",
+"name": "Birgitta Hermansson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "34",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 16:12:40",
+"email": "birgitta.hermansson@folkspel.se",
+"name": "Birgitta Hermansson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "48",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 16:12:40",
+"email": "birgitta.hermansson@folkspel.se",
+"name": "Birgitta Hermansson",
+"payed": false
+},
+{
+"category": "pink",
+"id": "46",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 17:12:05",
+"email": "carina.persson@folkspel.se",
+"name": "Carina Persson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "37",
+"type": "book",
+"checked": true,
+"date": "2016-12-08 17:12:05",
+"email": "carina.persson@folkspel.se",
+"name": "Carina Persson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "43",
+"type": "book",
+"checked": true,
+"date": "2016-12-09 08:12:46",
+"email": "jonathan.n.carlsson@gmail.com",
+"name": "Jonathan Carlsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "44",
+"type": "book",
+"checked": true,
+"date": "2016-12-09 08:12:46",
+"email": "jonathan.n.carlsson@gmail.com",
+"name": "Jonathan Carlsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "46",
+"type": "book",
+"checked": true,
+"date": "2016-12-09 08:12:46",
+"email": "jonathan.n.carlsson@gmail.com",
+"name": "Jonathan Carlsson",
+"payed": false
+},
+{
+"category": "orange",
+"id": "33",
+"type": "book",
+"checked": true,
+"date": "2016-12-09 08:12:29",
+"email": "victor.strom@folkspel.se",
+"name": "Victor Ström",
+"payed": false
+},
+{
+"category": "orange",
+"id": "38",
+"type": "book",
+"checked": true,
+"date": "2016-12-09 08:12:29",
+"email": "victor.strom@folkspel.se",
+"name": "Victor Ström",
+"payed": false
+}
+]

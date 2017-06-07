@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 39
+Datum: 2016-12-21 10:25:51
+Seed: 2344545
+---------------------------------
+
+Num	(Random)		Item
+2	(33 430 803)		red, veronica.oxhagen@folkspel.se, Veronica Thoren Oxhagen
+6	(54 663 611)		pink, chatrine.rodal@folkspel.com, Chatrine Rodal
+4	(62 211 402)		blue, tobias.winsnes@folkspel.se, Tobias Winsnes
+1	(79 790 163)		yellow, niclas.carlsson@folkspel.se, Niclas Carlsson
+5	(93 842 967)		orange, neil.burcher@folkspel.se, Neil Burcher
+3	(95 098 914)		green, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius

@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 16
+Datum: 2016-12-21 10:24:51
+---------------------------------
+
+1	blue, veronica.oxhagen@folkspel.se, Veronica Thoren Oxhagen		
+2	orange, johan.nilsson@folkspel.se, Johan Nilsson		
+3	green, emelie.courleux@folkspel.se, Emelie Courleux		
+4	yellow, niclas.carlsson@folkspel.se, Niclas Carlsson		
+5	pink, karin.hallberg@folkspel.se, Karin Hallberg		
+6	red, jens.mikkelsen@folkspel.se, Jens Mikkelsen		

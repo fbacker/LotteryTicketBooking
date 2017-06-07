@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, RESULT-RAPPORT
+
+=================================
+Name: Numbers 38
+Datum: 2016-12-21 10:25:47
+Seed: 41213337
+---------------------------------
+
+Num	(Random)		Item
+01	 (1 772 018)		blue, maria.arleback@folkspel.se, Maria Arlebäck		
+02	(12 785 648)		yellow, fredrik.eriksson@folkspel.se, Fredrik Eriksson		
+03	(14 305 958)		orange, victor.strom@folkspel.se, Victor Ström		
+04	(40 059 453)		pink, birgitta.hermansson@folkspel.se, Birgitta Hermansson		
+05	(56 022 985)		red, tobias.winsnes@folkspel.se, Tobias Winsnes		
+06	(98 854 857)		green, anders.eldh@folkspel.se, Anders Eldh		

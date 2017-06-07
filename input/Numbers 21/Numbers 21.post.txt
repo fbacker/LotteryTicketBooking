@@ -1,0 +1,15 @@
+﻿SORTERINGSDRAGNING, POST-RAPPORT
+
+=================================
+Name: Numbers 21
+Datum: 2016-12-21 10:25:05
+Seed: 21313487
+---------------------------------
+
+Num	(Random)		Item
+6	(25 313 206)		orange, johan.lindqvist@folkspel.se, Johan Lindqvist
+2	(28 918 427)		yellow, birgitta.hermansson@folkspel.se, Birgitta Hermansson
+4	(53 654 162)		red, karin.hallberg@folkspel.se, Karin Hallberg
+3	(60 300 929)		blue, jens.mikkelsen@folkspel.se, Jens Mikkelsen
+1	(87 118 496)		green, annika.tunerbratt@folkspel.se, Annika Tunerbratt
+5	(94 983 848)		pink, anders.wallen@folkspel.se, Anders Wallén

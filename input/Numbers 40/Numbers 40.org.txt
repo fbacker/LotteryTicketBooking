@@ -1,0 +1,6 @@
+yellow, corneliaa.s@hotmail.com, Cornelia Sarafian
+green, henrik.lindroth@folkspel.se, Henrik Lindroth
+red, torbjorn.bergman@folkspel.se, Torbjörn Bergman
+blue, anders.eldh@folkspel.se, Anders Eldh
+orange, johan.lindqvist@folkspel.se, Johan Lindqvist
+pink, markus.qvist@folkspel.se, Markus Qvist

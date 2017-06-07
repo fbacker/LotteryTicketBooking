@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 30
+Datum: 2016-12-21 10:25:30
+---------------------------------
+
+1	pink, erik.zetterstrom@folkspel.se, Erik Zetterström		
+2	red, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius		
+3	yellow, johanna.jacobsson@folkspel.se, Johanna Jacobsson		
+4	blue, torbjorn.bergman@folkspel.se, Torbjörn Bergman		
+5	orange, anders.wallen@folkspel.se, Anders Wallén		
+6	green, niclas.carlsson@folkspel.se, Niclas Carlsson		

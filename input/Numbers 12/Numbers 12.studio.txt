@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 12
+Datum: 2016-12-21 10:24:38
+---------------------------------
+
+1	yellow, mikael.kjellstrom@folkspel.se, Mikael Kjellström		
+2	pink, mans.billing@folkspel.se, Måns Billing		
+3	orange, johan.nilsson@folkspel.se, Johan Nilsson		
+4	blue, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius		
+5	red, annette.berntsson@folkspel.se, Annette Berntsson		
+6	green, chatrine.rodal@folkspel.se, Chatrine Rodal		

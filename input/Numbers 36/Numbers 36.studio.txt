@@ -1,0 +1,12 @@
+﻿=================================
+
+Name: Numbers 36
+Datum: 2016-12-21 10:25:44
+---------------------------------
+
+1	red, annika.tunerbratt@folkspel.se, Annika Tunerbratt		
+2	yellow, anders.eldh@folkspel.se, Anders Eldh		
+3	blue, maria.arleback@folkspel.se, Maria Arlebäck		
+4	green, klas.moberg@folkspel.se, Klas Moberg		
+5	orange, markus.qvist@folkspel.se, Markus Qvist		
+6	pink, emelie.courleux@folkspel.se, Emelie Courleux		
