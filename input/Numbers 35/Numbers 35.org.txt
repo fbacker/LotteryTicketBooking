@@ -1,6 +1,0 @@
-yellow, fredrick.backer@folkspel.se, Fredrick Bäcker
-green, annika.johanson@folkspel.se, Annika Johanson
-blue, emma.vikla@folkspel.se, Emma Vikla
-red, lisa.berge@folkspel.se, Lisa Berge
-orange, pia.gustafsson@folkspel.se, Pia Gustafsson
-pink, johan.nilsson@folkspel.se, Johan Nilsson

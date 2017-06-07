@@ -185,7 +185,7 @@ var appRouter = function(app) {
 	var mailOptions = {
 		from: 'no.reply@folkspel.se', // sender address
 		to: email, // list of receivers
-		subject: 'Jullotteriet. Hurra!!!', // Subject line
+		subject: 'Sommarlotteriet. Hurra!!!', // Subject line
 		text: 'Grattis.\nDu har köpt lotterna:'+emailListText+'\nVi önskar dig all lycka.', // plaintext body
 		html: '<p><b>Grattis</b></p><p>Du har köpt lotterna</p><ul>'+emailList+'</ul><p>Vi önskar dig all lycka.</p>' // html body
 	};

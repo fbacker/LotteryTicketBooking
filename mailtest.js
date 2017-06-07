@@ -11,7 +11,7 @@ var transporter = nodemailer.createTransport(smtpConfig);
 var mailOptions = {
     from: 'no.reply@folkspel.se', // sender address
     to: 'fredrick.backer@folkspel.se', // list of receivers
-    subject: 'Jullotteriet. Hurra!!!', // Subject line
+    subject: 'Sommarlotteriet. Hurra!!!', // Subject line
     text: 'Test', // plaintext body
     html: '<p><b>Grattis</b></p><p>Du har köpt lotterna</p><ul><li>Grön, 4</li></ul><p>Vi önskar dig all lycka</p>' // html body
 };

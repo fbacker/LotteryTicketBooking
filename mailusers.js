@@ -66,7 +66,7 @@ function email(){
 
        counter++;
 
-       var output = "<h2>Inför Jullotteriet</h2><p>Håll koll på dina lotter:</p><ul>";
+       var output = "<h2>Inför Vinlotteriet</h2><p>Håll koll på dina lotter:</p><ul>";
        var list =  users[prop];
        list.sort(function(x, y)
           {
@@ -92,7 +92,7 @@ function email(){
          var mailOptions = {
              from: 'no.reply@folkspel.se', // sender address
              to: prop, // list of receivers
-             subject: 'Jullotteriet. Nu kör vi!!!', // Subject line
+             subject: 'Sommarlotteriet. Nu kör vi!!!', // Subject line
              text: 'Skaffa dig en mail client som klarar html.', // plaintext body
              html: output // html body
          };

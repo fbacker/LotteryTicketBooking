@@ -1,6 +1,0 @@
-yellow, helene.andersson@folkspel.se, Helene Andersson
-blue, fredrik.eriksson@folkspel.se, Fredrik Eriksson
-red, jessica.hultgren@folkspel.se, Jessica Hultgren
-green, victor.strom@folkspel.se, Victor Ström
-orange, dick.kullendal@folkspel.se, Dick Kullendal
-pink, sprangers.william@gmail.com, William Sprangers

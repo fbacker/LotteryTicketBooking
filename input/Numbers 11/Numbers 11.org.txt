@@ -1,6 +1,0 @@
-red, isabelle.trysberg@folkspel.se, Isabelle Trysberg
-green, pia.gustafsson@folkspel.se, Pia Gustafsson
-yellow, annette.berntsson@folkspel.se, Annette Berntsson
-blue, mikael.kjellstrom@folkspel.se, Mikael Kjellström
-pink, jorgen.bostrom@folkspel.se, Jörgen Boström
-orange, sofia.nilsson@folkspel.se, Sofia Nilsson

@@ -1,6 +1,0 @@
-red, marie.rehnberg@folkspel.se, Marie Rehnberg
-green, annette.berntsson@folkspel.se, Annette  Berntsson
-yellow, fredrick.backer@folkspel.se, Fredrick Bäcker
-blue, amanda.nilsson@folkspel.se, Amanda Nilsson
-orange, erik.zetterstrom@folkspel.se, Erik Zetterström
-pink, sofia.nilsson@folkspel.se, Sofia Nilsson

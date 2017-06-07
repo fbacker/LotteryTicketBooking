@@ -1,6 +1,0 @@
-green, maria.arleback@folkspel.se, Maria Arlebäck
-yellow, mans.billing@folkspel.se, Måns Billing
-red, anders.wallen@folkspel.se, Anders Wallén
-blue, fredrick.backer@folkspel.se, Fredrick Bäcker
-pink, erik.zetterstrom@folkspel.se, Erik Zetterström
-orange, dick.kullendal@folkspel.se, Dick Kullendal

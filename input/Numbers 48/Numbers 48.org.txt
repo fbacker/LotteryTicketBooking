@@ -1,6 +1,0 @@
-blue, fredrick.backer@folkspel.se, Fredrick Bäcker
-red, jonas.sund@folkspel.se, Jonas Sund
-green, ann-charlotte.gregorius@folkspel.se, Ann-charlotte Gregorius
-yellow, anders.eldh@folkspel.se, Anders Eldh
-pink, karin.hallberg@folkspel.se, Karin Hallberg
-orange, birgitta.hermansson@folkspel.se, Birgitta Hermansson

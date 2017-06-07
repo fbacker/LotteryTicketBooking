@@ -1,6 +1,0 @@
-red, mattias.jacobsson@folkspel.se, Mattias Jacobsson
-green, jonas.sund@folkspel.se, Jonas Sund
-blue, carina.almquist@folkspel.se, Carina Almquist
-yellow, veronica.oxhagen@folkspel.se, Veronica Thoren Oxhagen
-pink, erik.zetterstrom@folkspel.se, Erik Zetterström
-orange, dick.kullendal@folkspel.se, Dick Kullendal

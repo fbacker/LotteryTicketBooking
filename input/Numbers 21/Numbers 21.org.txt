@@ -1,6 +1,0 @@
-green, annika.tunerbratt@folkspel.se, Annika Tunerbratt
-yellow, birgitta.hermansson@folkspel.se, Birgitta Hermansson
-blue, jens.mikkelsen@folkspel.se, Jens Mikkelsen
-red, karin.hallberg@folkspel.se, Karin Hallberg
-pink, anders.wallen@folkspel.se, Anders Wallén
-orange, johan.lindqvist@folkspel.se, Johan Lindqvist

@@ -1,6 +1,0 @@
-red, nenna.molin@folkspel.se, Nenna Molin
-green, mathias.skoglund@folkspel.se, Mathias Skoglund
-yellow, hans.sahlin@folkspel.se, Hans Sahlin
-blue, mikael.kjellstrom@folkspel.se, Mikael Kjellström
-orange, maria.lemback@folkspel.se, Maria Lembäck
-pink, peter.zamola@folkspel.se, Peter Zamola

@@ -1,6 +1,0 @@
-red, maria.arleback@folkspel.se, Maria Arlebäck
-blue, mans.billing@folkspel.se, Måns Billing
-green, mathias.skoglund@folkspel.se, Mathias Skoglund
-yellow, annette.berntsson@folkspel.se, Annette  Berntsson
-orange, marie.rehnberg@folkspel.se, Marie Rehnberg
-pink, erik.zetterstrom@folkspel.se, Erik Zetterström
