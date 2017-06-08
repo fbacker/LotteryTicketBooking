@@ -1,6 +1,6 @@
 var fs = require("fs");
 var moment = require("moment");
-var limitCategory = 1000;
+var limitCategory = 1;
 var limitTotal = 2;
 var list = [];
 
