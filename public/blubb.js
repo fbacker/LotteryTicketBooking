@@ -200,14 +200,14 @@ $(function() {
 
   updateInterval = setInterval(load,10000);
   load();
-  
-  var date = new Date(2017, 5, 13, 9,0,0);
+
+  var date = new Date(2017, 11, 20, 9,0,0);
   var now = new Date();
   var diff = (date.getTime()/1000) - (now.getTime()/1000);
-  var clock = $('.countdown-clock').FlipClock(diff,{
-  clockFace: 'DailyCounter',
-	countdown:true,
-	language:'se'
+  $('.countdown-clock').FlipClock(diff,{
+    clockFace: 'DailyCounter',
+  	countdown:true,
+  	language:'se'
 	});
 
 });
