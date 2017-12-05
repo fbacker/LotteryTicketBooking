@@ -23,3 +23,12 @@ Changes will go thru webpack parsed to index.html
 # make prod
 
 npm run production
+
+
+# deploy
+
+.local
+Git push remote
+
+.server
+forever start server.js
