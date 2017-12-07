@@ -201,7 +201,7 @@ $(function() {
   updateInterval = setInterval(load,10000);
   load();
 
-  var date = new Date(2017, 11, 20, 9,0,0);
+  var date = new Date(2017, 11, 17, 16,0,0);
   var now = new Date();
   var diff = (date.getTime()/1000) - (now.getTime()/1000);
   $('.countdown-clock').FlipClock(diff,{

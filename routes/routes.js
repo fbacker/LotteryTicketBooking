@@ -1,7 +1,7 @@
 var fs = require("fs");
 var moment = require("moment");
-var limitCategory = 2;
-var limitTotal = 100;
+var limitCategory = 100;
+var limitTotal = 6;
 var list = [];
 
 var smtpConfig = {
